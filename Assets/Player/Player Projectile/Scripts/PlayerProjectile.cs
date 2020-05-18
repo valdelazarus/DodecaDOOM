@@ -8,9 +8,15 @@ public class PlayerProjectile : MonoBehaviour
     public float speed;
     public Vector3 direction;
 
+    public float minDamage;
+    public float maxDamage;
+    public float criticalChance;
+    public float criticalMultiplier;
+
     Rigidbody rb;
     Animator anim;
     SpriteRenderer spriteRenderer;
+    bool isCritical;
 
     void Awake()
     {
@@ -20,7 +26,7 @@ public class PlayerProjectile : MonoBehaviour
         Destroy(gameObject, lifeTime);
     }
 
-    void Update()
+    void FixedUpdate()
     {
         rb.velocity = direction * speed;
     }
@@ -58,7 +64,29 @@ public class PlayerProjectile : MonoBehaviour
     }
     void OnTriggerEnter(Collider other)
     {
-        //deal damage to enemy
+        if (other.tag == "Enemy")
+        {
+            int damage = (int)CalculatedDamage();
+            other.GetComponent<Health>().DeductHealth(damage);
+            other.GetComponent<AttackedScrollingText>().OnAttack(damage, isCritical);
+        }
         Destroy(gameObject);
+    }
+
+    float CalculatedDamage()
+    {
+        float damage;
+        damage = Random.Range(minDamage, maxDamage);
+        float rand = Random.value;
+        if (rand <= criticalChance)
+        {
+            isCritical = true;
+            damage *= criticalMultiplier;
+        }
+        else
+        {
+            isCritical = false;
+        }
+        return damage;
     }
 }

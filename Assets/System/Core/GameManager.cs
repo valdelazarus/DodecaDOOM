@@ -7,16 +7,22 @@ public class GameManager : MonoBehaviour
     public GameObject[] environmentGroups;
 
     ClockManager clockManager;
+    UIManager uiManager;
+    LevelManager levelManager;
+    int currentScore;
 
     void Start()
     {
-        clockManager = FindObjectOfType<ClockManager>();    
+        clockManager = FindObjectOfType<ClockManager>();
+        uiManager = FindObjectOfType<UIManager>();
+        levelManager = FindObjectOfType<LevelManager>();
+        uiManager.UpdateScoreText(currentScore);
     }
 
-    
     void Update()
     {
         EnableEnvironmentAtClockTime(clockManager.currentClockTime);
+        CheckForWin();
     }
 
     void EnableEnvironmentAtClockTime(int currentClockTime)
@@ -37,4 +43,22 @@ public class GameManager : MonoBehaviour
                 break;
         }
     }
+
+    public void AddScore(int value)
+    {
+        currentScore += value;
+        PlayerPrefs.SetInt("Score", currentScore);
+        uiManager.UpdateScoreText(currentScore);
+    }
+
+    void CheckForWin()
+    {
+        //to be replaced later with proper win condition
+        if (clockManager.currentClockTime > 12)
+        {
+            levelManager.LoadScene("Game Win");
+        }
+    }
+
+  
 }

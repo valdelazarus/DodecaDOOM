@@ -11,9 +11,9 @@ public class FinalScoreDisplay : MonoBehaviour
     void Start()
     {
         scoreText = GetComponent<Text>();
-        float score = PlayerPrefs.GetFloat("Score");
+        int score = PlayerPrefs.GetInt("Score");
         scoreText.text = "Final Score: " + score;
-        PlayerPrefs.SetFloat("Score", 0);
+        PlayerPrefs.SetInt("Score", 0);
     }
     
     void Update()

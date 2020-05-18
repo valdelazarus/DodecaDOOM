@@ -22,8 +22,9 @@ public class ClockManager : MonoBehaviour
 
     void IncrementClockTime()
     {
-        if (currentClockTime >= 12) return;
+        if (currentClockTime > 12) return;
         currentClockTime++;
-        uiManager.UpdateClockText(currentClockTime.ToString());
+        if (currentClockTime <= 12)
+            uiManager.UpdateClockText(currentClockTime.ToString());
     }
 }

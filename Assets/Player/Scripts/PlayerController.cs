@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
     public float rangedAttackRate; //every ? seconds
     public GameObject projectile;
     public Transform[] projectileSpawnPos;
+    public GameObject[] meleeHitColliders;
 
     Rigidbody myRB;
     Animator myAnim;
@@ -122,5 +123,38 @@ public class PlayerController : MonoBehaviour
                 break;
         }
         spawned?.GetComponent<PlayerProjectile>().UpdateAnimation(myAnim.GetFloat("lastMoveX"), myAnim.GetFloat("lastMoveY"));
+    }
+   
+    public void EnableHitColliderDown()
+    {
+        meleeHitColliders[0].SetActive(true);
+    }
+    public void DisableHitColliderDown()
+    {
+        meleeHitColliders[0].SetActive(false);
+    }
+    public void EnableHitColliderUp()
+    {
+        meleeHitColliders[1].SetActive(true);
+    }
+    public void DisableHitColliderUp()
+    {
+        meleeHitColliders[1].SetActive(false);
+    }
+    public void EnableHitColliderLeft()
+    {
+        meleeHitColliders[2].SetActive(true);
+    }
+    public void DisableHitColliderLeft()
+    {
+        meleeHitColliders[2].SetActive(false);
+    }
+    public void EnableHitColliderRight()
+    {
+        meleeHitColliders[3].SetActive(true);
+    }
+    public void DisableHitColliderRight()
+    {
+        meleeHitColliders[3].SetActive(false);
     }
 }
