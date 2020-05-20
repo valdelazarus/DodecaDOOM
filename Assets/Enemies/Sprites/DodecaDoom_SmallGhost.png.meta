@@ -1,0 +1,2033 @@
+fileFormatVersion: 2
+guid: 21173c6e83aaa4a1786fca343b4ef8c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4562419690790226744
+    second: DodecaDoom_SmallGhost_0
+  - first:
+      213: -3238244929414029048
+    second: DodecaDoom_SmallGhost_1
+  - first:
+      213: -2111915189224595496
+    second: DodecaDoom_SmallGhost_2
+  - first:
+      213: 1438361188920813773
+    second: DodecaDoom_SmallGhost_3
+  - first:
+      213: 1873508532079104601
+    second: DodecaDoom_SmallGhost_4
+  - first:
+      213: 4269486278680807715
+    second: DodecaDoom_SmallGhost_5
+  - first:
+      213: -1244379603839876777
+    second: DodecaDoom_SmallGhost_6
+  - first:
+      213: -8026908067925066655
+    second: DodecaDoom_SmallGhost_7
+  - first:
+      213: -2027053038360260156
+    second: DodecaDoom_SmallGhost_8
+  - first:
+      213: 5395216639459003274
+    second: DodecaDoom_SmallGhost_9
+  - first:
+      213: -8558174148361157003
+    second: DodecaDoom_SmallGhost_10
+  - first:
+      213: -5976177414846020081
+    second: DodecaDoom_SmallGhost_11
+  - first:
+      213: 5720265497283728418
+    second: DodecaDoom_SmallGhost_12
+  - first:
+      213: -5207150784632152492
+    second: DodecaDoom_SmallGhost_13
+  - first:
+      213: 1535043059290229919
+    second: DodecaDoom_SmallGhost_14
+  - first:
+      213: -9200995519600207762
+    second: DodecaDoom_SmallGhost_15
+  - first:
+      213: -388417726885145577
+    second: DodecaDoom_SmallGhost_16
+  - first:
+      213: -3344693198667975577
+    second: DodecaDoom_SmallGhost_17
+  - first:
+      213: 3250348746993371031
+    second: DodecaDoom_SmallGhost_18
+  - first:
+      213: 6910410985472927998
+    second: DodecaDoom_SmallGhost_19
+  - first:
+      213: 1912540530998707758
+    second: DodecaDoom_SmallGhost_20
+  - first:
+      213: 1442474140778522570
+    second: DodecaDoom_SmallGhost_21
+  - first:
+      213: -7419723418899663462
+    second: DodecaDoom_SmallGhost_22
+  - first:
+      213: -3707007469140560605
+    second: DodecaDoom_SmallGhost_23
+  - first:
+      213: 2510000716905944418
+    second: DodecaDoom_SmallGhost_24
+  - first:
+      213: 2783387220807480450
+    second: DodecaDoom_SmallGhost_25
+  - first:
+      213: 1471571637098044113
+    second: DodecaDoom_SmallGhost_26
+  - first:
+      213: 7847864357419733897
+    second: DodecaDoom_SmallGhost_27
+  - first:
+      213: 8554766812508740656
+    second: DodecaDoom_SmallGhost_28
+  - first:
+      213: 1676820001314237074
+    second: DodecaDoom_SmallGhost_29
+  - first:
+      213: 4167583622537672500
+    second: DodecaDoom_SmallGhost_30
+  - first:
+      213: -8436755280676908897
+    second: DodecaDoom_SmallGhost_31
+  - first:
+      213: 7459321632619396398
+    second: DodecaDoom_SmallGhost_32
+  - first:
+      213: 8672733060900010069
+    second: DodecaDoom_SmallGhost_33
+  - first:
+      213: 3532335877774686454
+    second: DodecaDoom_SmallGhost_34
+  - first:
+      213: 5626251277596687203
+    second: DodecaDoom_SmallGhost_35
+  - first:
+      213: 1333683739692131042
+    second: DodecaDoom_SmallGhost_36
+  - first:
+      213: 1826794550414891164
+    second: DodecaDoom_SmallGhost_37
+  - first:
+      213: 3338610334996483634
+    second: DodecaDoom_SmallGhost_38
+  - first:
+      213: 8376532476995851421
+    second: DodecaDoom_SmallGhost_39
+  - first:
+      213: -4235440911268350748
+    second: DodecaDoom_SmallGhost_40
+  - first:
+      213: 3653473669480001101
+    second: DodecaDoom_SmallGhost_41
+  - first:
+      213: 6233074900796330769
+    second: DodecaDoom_SmallGhost_42
+  - first:
+      213: -6315672321907977680
+    second: DodecaDoom_SmallGhost_43
+  - first:
+      213: 2085761907280787085
+    second: DodecaDoom_SmallGhost_44
+  - first:
+      213: 4797843395549337744
+    second: DodecaDoom_SmallGhost_45
+  - first:
+      213: -679776717563816313
+    second: DodecaDoom_SmallGhost_46
+  - first:
+      213: 3420580085685423393
+    second: DodecaDoom_SmallGhost_47
+  - first:
+      213: -4836175605485351424
+    second: DodecaDoom_SmallGhost_48
+  - first:
+      213: 7232767707624865204
+    second: DodecaDoom_SmallGhost_49
+  - first:
+      213: 5933019208201091156
+    second: DodecaDoom_SmallGhost_50
+  - first:
+      213: 8564871497879616188
+    second: DodecaDoom_SmallGhost_51
+  - first:
+      213: -3868825362226903694
+    second: DodecaDoom_SmallGhost_52
+  - first:
+      213: -5537886575321635537
+    second: DodecaDoom_SmallGhost_53
+  - first:
+      213: -3801496096059746750
+    second: DodecaDoom_SmallGhost_54
+  - first:
+      213: 6997925677972224505
+    second: DodecaDoom_SmallGhost_55
+  - first:
+      213: 9186832736500838032
+    second: DodecaDoom_SmallGhost_56
+  - first:
+      213: -6481763969239999109
+    second: DodecaDoom_SmallGhost_57
+  - first:
+      213: -3578630907355186659
+    second: DodecaDoom_SmallGhost_58
+  - first:
+      213: -686484088820844612
+    second: DodecaDoom_SmallGhost_59
+  - first:
+      213: -2673003873569244525
+    second: DodecaDoom_SmallGhost_60
+  - first:
+      213: -1844665074340729933
+    second: DodecaDoom_SmallGhost_61
+  - first:
+      213: 1550540619612250218
+    second: DodecaDoom_SmallGhost_62
+  - first:
+      213: -8077560502349579461
+    second: DodecaDoom_SmallGhost_63
+  - first:
+      213: 507425039159533726
+    second: DodecaDoom_SmallGhost_64
+  - first:
+      213: -404575739087710114
+    second: DodecaDoom_SmallGhost_65
+  - first:
+      213: -5692272036562681317
+    second: DodecaDoom_SmallGhost_66
+  - first:
+      213: -7700243554287654334
+    second: DodecaDoom_SmallGhost_67
+  - first:
+      213: 1197805441385809048
+    second: DodecaDoom_SmallGhost_68
+  - first:
+      213: 3401029593621393246
+    second: DodecaDoom_SmallGhost_69
+  - first:
+      213: -5539305496908713028
+    second: DodecaDoom_SmallGhost_70
+  - first:
+      213: 51592215513019438
+    second: DodecaDoom_SmallGhost_0
+  - first:
+      213: -4281958937569954415
+    second: DodecaDoom_SmallGhost_1
+  - first:
+      213: 795674994844158251
+    second: DodecaDoom_SmallGhost_2
+  - first:
+      213: 2886186235777570432
+    second: DodecaDoom_SmallGhost_3
+  - first:
+      213: 4751767304212405917
+    second: DodecaDoom_SmallGhost_4
+  - first:
+      213: 7177141939585385183
+    second: DodecaDoom_SmallGhost_5
+  - first:
+      213: 7869674562495313027
+    second: DodecaDoom_SmallGhost_6
+  - first:
+      213: -762363035746819997
+    second: DodecaDoom_SmallGhost_7
+  - first:
+      213: -7660474048791612273
+    second: DodecaDoom_SmallGhost_8
+  - first:
+      213: -2982137632527802970
+    second: DodecaDoom_SmallGhost_9
+  - first:
+      213: -2524092515530262731
+    second: DodecaDoom_SmallGhost_10
+  - first:
+      213: 6748611778398429955
+    second: DodecaDoom_SmallGhost_11
+  - first:
+      213: 2409991573076843958
+    second: DodecaDoom_SmallGhost_12
+  - first:
+      213: 948219318195706117
+    second: DodecaDoom_SmallGhost_13
+  - first:
+      213: 7933000415108930569
+    second: DodecaDoom_SmallGhost_14
+  - first:
+      213: -6588503633849695593
+    second: DodecaDoom_SmallGhost_15
+  - first:
+      213: 2966078929253952736
+    second: DodecaDoom_SmallGhost_16
+  - first:
+      213: 8867609066273710960
+    second: DodecaDoom_SmallGhost_17
+  - first:
+      213: 4844699267415445837
+    second: DodecaDoom_SmallGhost_18
+  - first:
+      213: 4445598081601891970
+    second: DodecaDoom_SmallGhost_19
+  - first:
+      213: -2846975948258792708
+    second: DodecaDoom_SmallGhost_20
+  - first:
+      213: 3802075151906655490
+    second: DodecaDoom_SmallGhost_21
+  - first:
+      213: -5794250004328072641
+    second: DodecaDoom_SmallGhost_22
+  - first:
+      213: 6549175852069736643
+    second: DodecaDoom_SmallGhost_23
+  - first:
+      213: 5295848697373046357
+    second: DodecaDoom_SmallGhost_24
+  - first:
+      213: 8328842959418034406
+    second: DodecaDoom_SmallGhost_25
+  - first:
+      213: 343380018740035404
+    second: DodecaDoom_SmallGhost_26
+  - first:
+      213: 5280544633219886550
+    second: DodecaDoom_SmallGhost_27
+  - first:
+      213: -1422409448673282102
+    second: DodecaDoom_SmallGhost_28
+  - first:
+      213: -8633482191288319597
+    second: DodecaDoom_SmallGhost_29
+  - first:
+      213: -6582174279246925743
+    second: DodecaDoom_SmallGhost_30
+  - first:
+      213: 990957584510573252
+    second: DodecaDoom_SmallGhost_31
+  - first:
+      213: -7729865936513343137
+    second: DodecaDoom_SmallGhost_32
+  - first:
+      213: -3391649611776894097
+    second: DodecaDoom_SmallGhost_33
+  - first:
+      213: 4197003699381597741
+    second: DodecaDoom_SmallGhost_34
+  - first:
+      213: -3227009536407393483
+    second: DodecaDoom_SmallGhost_35
+  - first:
+      213: -3734882197405446290
+    second: DodecaDoom_SmallGhost_36
+  - first:
+      213: -6051955392031650585
+    second: DodecaDoom_SmallGhost_37
+  - first:
+      213: -7464203687975092056
+    second: DodecaDoom_SmallGhost_38
+  - first:
+      213: 4678915582276474545
+    second: DodecaDoom_SmallGhost_39
+  - first:
+      213: 1936800780514286658
+    second: DodecaDoom_SmallGhost_40
+  - first:
+      213: -1297066754373717553
+    second: DodecaDoom_SmallGhost_41
+  - first:
+      213: 7591071601486734236
+    second: DodecaDoom_SmallGhost_42
+  - first:
+      213: 2310914404904036509
+    second: DodecaDoom_SmallGhost_43
+  - first:
+      213: 8771161851381102100
+    second: DodecaDoom_SmallGhost_44
+  - first:
+      213: 6871751981222592628
+    second: DodecaDoom_SmallGhost_45
+  - first:
+      213: -9212226064044619640
+    second: DodecaDoom_SmallGhost_46
+  - first:
+      213: -1287233682568988314
+    second: DodecaDoom_SmallGhost_47
+  - first:
+      213: -8937610078431601470
+    second: DodecaDoom_SmallGhost_48
+  - first:
+      213: -2066616294475135951
+    second: DodecaDoom_SmallGhost_49
+  - first:
+      213: 6587750272232724789
+    second: DodecaDoom_SmallGhost_50
+  - first:
+      213: 6175409003470400349
+    second: DodecaDoom_SmallGhost_51
+  - first:
+      213: -1686409502349106226
+    second: DodecaDoom_SmallGhost_52
+  - first:
+      213: -6819641090894517116
+    second: DodecaDoom_SmallGhost_53
+  - first:
+      213: -6084676466558628501
+    second: DodecaDoom_SmallGhost_54
+  - first:
+      213: -2723511273075983651
+    second: DodecaDoom_SmallGhost_55
+  - first:
+      213: 1533010119890315185
+    second: DodecaDoom_SmallGhost_56
+  - first:
+      213: 4159840412783223561
+    second: DodecaDoom_SmallGhost_57
+  - first:
+      213: 7143366416463489042
+    second: DodecaDoom_SmallGhost_58
+  - first:
+      213: -7920115279272629814
+    second: DodecaDoom_SmallGhost_59
+  - first:
+      213: 4457282505907108676
+    second: DodecaDoom_SmallGhost_60
+  - first:
+      213: -3583737637581239351
+    second: DodecaDoom_SmallGhost_61
+  - first:
+      213: -5359360619675295923
+    second: DodecaDoom_SmallGhost_62
+  - first:
+      213: -6172955246135962344
+    second: DodecaDoom_SmallGhost_63
+  - first:
+      213: -1434275660297686498
+    second: DodecaDoom_SmallGhost_64
+  - first:
+      213: 204944333078327402
+    second: DodecaDoom_SmallGhost_65
+  - first:
+      213: -286939074285667321
+    second: DodecaDoom_SmallGhost_66
+  - first:
+      213: 503500963867347761
+    second: DodecaDoom_SmallGhost_67
+  - first:
+      213: -5273423087825145000
+    second: DodecaDoom_SmallGhost_68
+  - first:
+      213: -618030862320800651
+    second: DodecaDoom_SmallGhost_69
+  - first:
+      213: -2029047658202561693
+    second: DodecaDoom_SmallGhost_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 489
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2434deb8da47b000800000000000000
+      internalID: 51592215513019438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 490
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1957557780d6394c0800000000000000
+      internalID: -4281958937569954415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 491
+        width: 20
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29c850313eca0b00800000000000000
+      internalID: 795674994844158251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 489
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086d42bf61bcd0820800000000000000
+      internalID: 2886186235777570432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 494
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e55eeef2ba1f140800000000000000
+      internalID: 4751767304212405917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 494
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd28b8361945a9360800000000000000
+      internalID: 7177141939585385183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 494
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384f57bb153b63d60800000000000000
+      internalID: 7869674562495313027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 457
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3602c60bbda8b65f0800000000000000
+      internalID: -762363035746819997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 458
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f847da6807780b590800000000000000
+      internalID: -7660474048791612273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 459
+        width: 20
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad1bdd8f915d96d0800000000000000
+      internalID: -2982137632527802970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 457
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537b897fa3f98fcd0800000000000000
+      internalID: -2524092515530262731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 462
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303a47228a2e7ad50800000000000000
+      internalID: 6748611778398429955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 462
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd1ee82192027120800000000000000
+      internalID: 2409991573076843958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 462
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509d73e2270c82d00800000000000000
+      internalID: 948219318195706117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 424
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c1891c8dda71e60800000000000000
+      internalID: 7933000415108930569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 438
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792c4073adee094a0800000000000000
+      internalID: -6588503633849695593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 429
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ece3f93211a92920800000000000000
+      internalID: 2966078929253952736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 429
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07327429673101b70800000000000000
+      internalID: 8867609066273710960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 422
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4194edb054db3340800000000000000
+      internalID: 4844699267415445837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 422
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ee904c6efe1bd30800000000000000
+      internalID: 4445598081601891970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 422
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa24ff75728d78d0800000000000000
+      internalID: -2846975948258792708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_21
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 429
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d4cb6d43fa3c430800000000000000
+      internalID: 3802075151906655490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 390
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a38300250b69fa0800000000000000
+      internalID: -5794250004328072641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 390
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0de2a0db853ea50800000000000000
+      internalID: 6549175852069736643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 394
+        width: 15
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556b227e452ae7940800000000000000
+      internalID: 5295848697373046357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 387
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e800222b8ef59370800000000000000
+      internalID: 8328842959418034406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 393
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f77f7ce4ee3c400800000000000000
+      internalID: 343380018740035404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_27
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 393
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddaaabcd53484940800000000000000
+      internalID: 5280544633219886550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_28
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 393
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac77ba68426924ce0800000000000000
+      internalID: -1422409448673282102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 394
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391499d60b5bf2880800000000000000
+      internalID: -8633482191288319597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 386
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15036cbed5b67a4a0800000000000000
+      internalID: -6582174279246925743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 361
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca5b3c3ca690cd00800000000000000
+      internalID: 990957584510573252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 361
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51eab4a2eff9b490800000000000000
+      internalID: -7729865936513343137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 361
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b5277d5a07ee0d0800000000000000
+      internalID: -3391649611776894097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_34
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 361
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26f3aeb0a0ce3a30800000000000000
+      internalID: 4197003699381597741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 329
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ba3af8ceb5733d0800000000000000
+      internalID: -3227009536407393483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 329
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fc7b10e680b2cc0800000000000000
+      internalID: -3734882197405446290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 329
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec8175b2a2230ca0800000000000000
+      internalID: -6051955392031650585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 329
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a08517fa42d96890800000000000000
+      internalID: -7464203687975092056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 302
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b611af9ee8dee040800000000000000
+      internalID: 4678915582276474545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_40
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 301
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cd04b5c06e0ea10800000000000000
+      internalID: 1936800780514286658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 300
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1f597b8a4effde0800000000000000
+      internalID: -1297066754373717553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 301
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c932c2ff667e85960800000000000000
+      internalID: 7591071601486734236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 270
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9863a25864021020800000000000000
+      internalID: 2310914404904036509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 269
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41637037b3d69b970800000000000000
+      internalID: 8771161851381102100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 268
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4700c51d40e5d5f50800000000000000
+      internalID: 6871751981222592628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 269
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88886060439972080800000000000000
+      internalID: -9212226064044619640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 235
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669be8729c3d22ee0800000000000000
+      internalID: -1287233682568988314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_48
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 235
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc1226bcfa37f380800000000000000
+      internalID: -8937610078431601470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 203
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13486c8fd67e153e0800000000000000
+      internalID: -2066616294475135951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 203
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5391a6d18f36c6b50800000000000000
+      internalID: 6587750272232724789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_51
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 169
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b2a9a15c573b550800000000000000
+      internalID: 6175409003470400349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 170
+        width: 24
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec363aa1e7ba898e0800000000000000
+      internalID: -1686409502349106226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_53
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 137
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c23915f84cb51a0800000000000000
+      internalID: -6819641090894517116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_54
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 138
+        width: 24
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d089dddf2ee8ba0800000000000000
+      internalID: -6084676466558628501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 104
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddab88a4de4243ad0800000000000000
+      internalID: -2723511273075983651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 105
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b72421f498564510800000000000000
+      internalID: 1533010119890315185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_57
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 109
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903224ec0d8bab930800000000000000
+      internalID: 4159840412783223561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 111
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218e2c998e5522360800000000000000
+      internalID: 7143366416463489042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 68
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9afc6bd19161290800000000000000
+      internalID: -7920115279272629814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_60
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 69
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bf72cc2d27bdd30800000000000000
+      internalID: 4457282505907108676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_61
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbc5c72b91044ec0800000000000000
+      internalID: -3583737637581239351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 75
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f590959e9bf95b0800000000000000
+      internalID: -5359360619675295923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 43
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8159eabc8e1455aa0800000000000000
+      internalID: -6172955246135962344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 46
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12b7f5d2ed681ce0800000000000000
+      internalID: -1434275660297686498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_65
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 49
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60fcdbf8cb18d200800000000000000
+      internalID: 204944333078327402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_66
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 51
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cf505ae66940cf0800000000000000
+      internalID: -286939074285667321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b416f757bccf600800000000000000
+      internalID: 503500963867347761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_68
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 14
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853b6d334a901d6b0800000000000000
+      internalID: -5273423087825145000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 17
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ce32784305c67f0800000000000000
+      internalID: -618030862320800651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_SmallGhost_70
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 19
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3638f7cb7ef57d3e0800000000000000
+      internalID: -2029047658202561693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8a1a53173ce9844158274e975be6b150
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

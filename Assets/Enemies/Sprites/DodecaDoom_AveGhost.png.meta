@@ -1,0 +1,3221 @@
+fileFormatVersion: 2
+guid: 4fda87bed6afb4ae798aafc5efd4d649
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -284204020591767830
+    second: DodecaDoom_AveGhost_0
+  - first:
+      213: -5021191054719191762
+    second: DodecaDoom_AveGhost_1
+  - first:
+      213: -6871242541916908219
+    second: DodecaDoom_AveGhost_2
+  - first:
+      213: -7593083923717370612
+    second: DodecaDoom_AveGhost_3
+  - first:
+      213: -2098213014606678655
+    second: DodecaDoom_AveGhost_4
+  - first:
+      213: 6684932493577201987
+    second: DodecaDoom_AveGhost_5
+  - first:
+      213: -9016558578964102074
+    second: DodecaDoom_AveGhost_6
+  - first:
+      213: 487114848927621124
+    second: DodecaDoom_AveGhost_7
+  - first:
+      213: -3477707348343950532
+    second: DodecaDoom_AveGhost_8
+  - first:
+      213: -4213210352304390999
+    second: DodecaDoom_AveGhost_9
+  - first:
+      213: -1618203135029787025
+    second: DodecaDoom_AveGhost_10
+  - first:
+      213: 53466773160856558
+    second: DodecaDoom_AveGhost_11
+  - first:
+      213: -8946487384240456728
+    second: DodecaDoom_AveGhost_12
+  - first:
+      213: -6001722051051402608
+    second: DodecaDoom_AveGhost_13
+  - first:
+      213: 8916240693983290141
+    second: DodecaDoom_AveGhost_14
+  - first:
+      213: -7985824878371652119
+    second: DodecaDoom_AveGhost_15
+  - first:
+      213: 2204784609562305336
+    second: DodecaDoom_AveGhost_16
+  - first:
+      213: 2750133264274274357
+    second: DodecaDoom_AveGhost_17
+  - first:
+      213: -6720663373867989038
+    second: DodecaDoom_AveGhost_18
+  - first:
+      213: -4801715802872039399
+    second: DodecaDoom_AveGhost_19
+  - first:
+      213: 8133090595755630591
+    second: DodecaDoom_AveGhost_20
+  - first:
+      213: 1618455854277181736
+    second: DodecaDoom_AveGhost_21
+  - first:
+      213: 7751398187648902491
+    second: DodecaDoom_AveGhost_22
+  - first:
+      213: -5377772668391741982
+    second: DodecaDoom_AveGhost_23
+  - first:
+      213: 4963836076712582658
+    second: DodecaDoom_AveGhost_24
+  - first:
+      213: 7248092498855519552
+    second: DodecaDoom_AveGhost_25
+  - first:
+      213: -218261770594722274
+    second: DodecaDoom_AveGhost_26
+  - first:
+      213: -5487506207254706727
+    second: DodecaDoom_AveGhost_27
+  - first:
+      213: -6897419065513480616
+    second: DodecaDoom_AveGhost_28
+  - first:
+      213: -439775714284483653
+    second: DodecaDoom_AveGhost_29
+  - first:
+      213: 1368199338021120809
+    second: DodecaDoom_AveGhost_30
+  - first:
+      213: -3633615100809866730
+    second: DodecaDoom_AveGhost_31
+  - first:
+      213: -5032298415026894023
+    second: DodecaDoom_AveGhost_32
+  - first:
+      213: 2987519274882480205
+    second: DodecaDoom_AveGhost_33
+  - first:
+      213: -7170426624032605051
+    second: DodecaDoom_AveGhost_34
+  - first:
+      213: 6630306111174625903
+    second: DodecaDoom_AveGhost_35
+  - first:
+      213: -5240382571813086128
+    second: DodecaDoom_AveGhost_36
+  - first:
+      213: -4315425525705683872
+    second: DodecaDoom_AveGhost_37
+  - first:
+      213: -7084827561426353362
+    second: DodecaDoom_AveGhost_38
+  - first:
+      213: -4347730816384948260
+    second: DodecaDoom_AveGhost_39
+  - first:
+      213: 3941614271969728223
+    second: DodecaDoom_AveGhost_40
+  - first:
+      213: 6653759751603332931
+    second: DodecaDoom_AveGhost_41
+  - first:
+      213: -4199317415793361581
+    second: DodecaDoom_AveGhost_42
+  - first:
+      213: -8291635021143444735
+    second: DodecaDoom_AveGhost_43
+  - first:
+      213: -8225106996196127293
+    second: DodecaDoom_AveGhost_44
+  - first:
+      213: -2074387575761718262
+    second: DodecaDoom_AveGhost_45
+  - first:
+      213: 1776590498857852334
+    second: DodecaDoom_AveGhost_46
+  - first:
+      213: -8061050882655932213
+    second: DodecaDoom_AveGhost_47
+  - first:
+      213: -3023067929695230785
+    second: DodecaDoom_AveGhost_48
+  - first:
+      213: 8561068583554921028
+    second: DodecaDoom_AveGhost_49
+  - first:
+      213: -6226819017235042895
+    second: DodecaDoom_AveGhost_50
+  - first:
+      213: 2216532794366800487
+    second: DodecaDoom_AveGhost_51
+  - first:
+      213: -3982868747348008198
+    second: DodecaDoom_AveGhost_52
+  - first:
+      213: -8641864086413709934
+    second: DodecaDoom_AveGhost_53
+  - first:
+      213: -4401679780659808794
+    second: DodecaDoom_AveGhost_54
+  - first:
+      213: -3227662081161977785
+    second: DodecaDoom_AveGhost_55
+  - first:
+      213: 4247430173088373329
+    second: DodecaDoom_AveGhost_56
+  - first:
+      213: 15760749792457290
+    second: DodecaDoom_AveGhost_57
+  - first:
+      213: 7109502679080555839
+    second: DodecaDoom_AveGhost_58
+  - first:
+      213: -7604421771249926694
+    second: DodecaDoom_AveGhost_59
+  - first:
+      213: -7042577336977753004
+    second: DodecaDoom_AveGhost_60
+  - first:
+      213: 2906776655210467470
+    second: DodecaDoom_AveGhost_61
+  - first:
+      213: -1565753015428912279
+    second: DodecaDoom_AveGhost_62
+  - first:
+      213: -1728452027489331505
+    second: DodecaDoom_AveGhost_63
+  - first:
+      213: 7613700032723317019
+    second: DodecaDoom_AveGhost_64
+  - first:
+      213: -759851971133154478
+    second: DodecaDoom_AveGhost_65
+  - first:
+      213: -1770254549127928272
+    second: DodecaDoom_AveGhost_66
+  - first:
+      213: -3158360712410368640
+    second: DodecaDoom_AveGhost_67
+  - first:
+      213: 7719177726343735810
+    second: DodecaDoom_AveGhost_68
+  - first:
+      213: 7461119720715021803
+    second: DodecaDoom_AveGhost_69
+  - first:
+      213: -7154103523700135449
+    second: DodecaDoom_AveGhost_70
+  - first:
+      213: 8423720844081452048
+    second: DodecaDoom_AveGhost_71
+  - first:
+      213: -46342632883864386
+    second: DodecaDoom_AveGhost_72
+  - first:
+      213: 8424963333458626651
+    second: DodecaDoom_AveGhost_73
+  - first:
+      213: 8442796607918569535
+    second: DodecaDoom_AveGhost_74
+  - first:
+      213: 7356778899378066469
+    second: DodecaDoom_AveGhost_75
+  - first:
+      213: -8849487885209166241
+    second: DodecaDoom_AveGhost_76
+  - first:
+      213: 5606507822606063351
+    second: DodecaDoom_AveGhost_77
+  - first:
+      213: -3109511564739652874
+    second: DodecaDoom_AveGhost_78
+  - first:
+      213: -8764114606871406674
+    second: DodecaDoom_AveGhost_79
+  - first:
+      213: -5946047840199654860
+    second: DodecaDoom_AveGhost_80
+  - first:
+      213: 5714572151221813745
+    second: DodecaDoom_AveGhost_81
+  - first:
+      213: 1992893978291457727
+    second: DodecaDoom_AveGhost_82
+  - first:
+      213: -5146075416882397858
+    second: DodecaDoom_AveGhost_83
+  - first:
+      213: -4251308525194280186
+    second: DodecaDoom_AveGhost_84
+  - first:
+      213: 6749803669567541714
+    second: DodecaDoom_AveGhost_85
+  - first:
+      213: -8950283545768644432
+    second: DodecaDoom_AveGhost_86
+  - first:
+      213: 154389666919787904
+    second: DodecaDoom_AveGhost_87
+  - first:
+      213: 6093012743293706614
+    second: DodecaDoom_AveGhost_88
+  - first:
+      213: -6341369468381541132
+    second: DodecaDoom_AveGhost_89
+  - first:
+      213: -2599562347497818587
+    second: DodecaDoom_AveGhost_90
+  - first:
+      213: -5188089322026598680
+    second: DodecaDoom_AveGhost_91
+  - first:
+      213: 4463065385523692573
+    second: DodecaDoom_AveGhost_92
+  - first:
+      213: 6023243939479942439
+    second: DodecaDoom_AveGhost_93
+  - first:
+      213: -1982227859585743005
+    second: DodecaDoom_AveGhost_94
+  - first:
+      213: 5607670196420349683
+    second: DodecaDoom_AveGhost_95
+  - first:
+      213: -1834581451510590577
+    second: DodecaDoom_AveGhost_96
+  - first:
+      213: -2010542636118189057
+    second: DodecaDoom_AveGhost_97
+  - first:
+      213: -5906653765757776799
+    second: DodecaDoom_AveGhost_98
+  - first:
+      213: -4408294976267236346
+    second: DodecaDoom_AveGhost_99
+  - first:
+      213: 303332411495588613
+    second: DodecaDoom_AveGhost_100
+  - first:
+      213: 7370083557927686906
+    second: DodecaDoom_AveGhost_101
+  - first:
+      213: 4891628029269481255
+    second: DodecaDoom_AveGhost_102
+  - first:
+      213: 337125315463197843
+    second: DodecaDoom_AveGhost_103
+  - first:
+      213: -7022057974670089814
+    second: DodecaDoom_AveGhost_104
+  - first:
+      213: -7523699400659723391
+    second: DodecaDoom_AveGhost_105
+  - first:
+      213: 4483263452666548238
+    second: DodecaDoom_AveGhost_106
+  - first:
+      213: -8906279149221257320
+    second: DodecaDoom_AveGhost_107
+  - first:
+      213: 1579185177167805034
+    second: DodecaDoom_AveGhost_108
+  - first:
+      213: 2548766550549967642
+    second: DodecaDoom_AveGhost_109
+  - first:
+      213: 1707952059305917950
+    second: DodecaDoom_AveGhost_110
+  - first:
+      213: -2472145312273825390
+    second: DodecaDoom_AveGhost_111
+  - first:
+      213: 9199418308417663735
+    second: DodecaDoom_AveGhost_112
+  - first:
+      213: -4120968625847176739
+    second: DodecaDoom_AveGhost_113
+  - first:
+      213: 3343093422669304826
+    second: DodecaDoom_AveGhost_114
+  - first:
+      213: -6495267764211227570
+    second: DodecaDoom_AveGhost_0
+  - first:
+      213: -7713821530322825102
+    second: DodecaDoom_AveGhost_1
+  - first:
+      213: -442740838897209857
+    second: DodecaDoom_AveGhost_2
+  - first:
+      213: 4319160743667613067
+    second: DodecaDoom_AveGhost_3
+  - first:
+      213: -5331595257983261235
+    second: DodecaDoom_AveGhost_4
+  - first:
+      213: 6533161751396339121
+    second: DodecaDoom_AveGhost_5
+  - first:
+      213: 1983821009663314691
+    second: DodecaDoom_AveGhost_6
+  - first:
+      213: 2396231160668775102
+    second: DodecaDoom_AveGhost_7
+  - first:
+      213: -4016664335853113098
+    second: DodecaDoom_AveGhost_8
+  - first:
+      213: -2011701391105047376
+    second: DodecaDoom_AveGhost_9
+  - first:
+      213: -697925462358388916
+    second: DodecaDoom_AveGhost_10
+  - first:
+      213: -6552725611235856089
+    second: DodecaDoom_AveGhost_11
+  - first:
+      213: -3031267731806222681
+    second: DodecaDoom_AveGhost_12
+  - first:
+      213: -7333745292572549201
+    second: DodecaDoom_AveGhost_13
+  - first:
+      213: 3682094748544821326
+    second: DodecaDoom_AveGhost_14
+  - first:
+      213: 2859884522918603664
+    second: DodecaDoom_AveGhost_15
+  - first:
+      213: 7111143657777592169
+    second: DodecaDoom_AveGhost_16
+  - first:
+      213: -7105970042765256679
+    second: DodecaDoom_AveGhost_17
+  - first:
+      213: -5712779280382260183
+    second: DodecaDoom_AveGhost_18
+  - first:
+      213: -6333315403436266123
+    second: DodecaDoom_AveGhost_19
+  - first:
+      213: -7183464086849854744
+    second: DodecaDoom_AveGhost_20
+  - first:
+      213: 8221236176987324378
+    second: DodecaDoom_AveGhost_21
+  - first:
+      213: 5099127320786155952
+    second: DodecaDoom_AveGhost_22
+  - first:
+      213: 4718426483799201575
+    second: DodecaDoom_AveGhost_23
+  - first:
+      213: 2693496170417335046
+    second: DodecaDoom_AveGhost_24
+  - first:
+      213: -5253433105446183815
+    second: DodecaDoom_AveGhost_25
+  - first:
+      213: 8013479185426766210
+    second: DodecaDoom_AveGhost_26
+  - first:
+      213: 300663110789696280
+    second: DodecaDoom_AveGhost_27
+  - first:
+      213: 187126774051294057
+    second: DodecaDoom_AveGhost_28
+  - first:
+      213: 1100668361243325362
+    second: DodecaDoom_AveGhost_29
+  - first:
+      213: 3484062220870284083
+    second: DodecaDoom_AveGhost_30
+  - first:
+      213: 5012054365686033586
+    second: DodecaDoom_AveGhost_31
+  - first:
+      213: -8478770417303419621
+    second: DodecaDoom_AveGhost_32
+  - first:
+      213: -7218615450119315712
+    second: DodecaDoom_AveGhost_33
+  - first:
+      213: -8781584980610517328
+    second: DodecaDoom_AveGhost_34
+  - first:
+      213: 2316052831694422304
+    second: DodecaDoom_AveGhost_35
+  - first:
+      213: 5047878030246210454
+    second: DodecaDoom_AveGhost_36
+  - first:
+      213: -6052858865508411081
+    second: DodecaDoom_AveGhost_37
+  - first:
+      213: 4337215885383867182
+    second: DodecaDoom_AveGhost_38
+  - first:
+      213: 6592063342346944226
+    second: DodecaDoom_AveGhost_39
+  - first:
+      213: -7049874187517633691
+    second: DodecaDoom_AveGhost_40
+  - first:
+      213: -6165241616080719274
+    second: DodecaDoom_AveGhost_41
+  - first:
+      213: 3956845356392246066
+    second: DodecaDoom_AveGhost_42
+  - first:
+      213: -2529616908334609323
+    second: DodecaDoom_AveGhost_43
+  - first:
+      213: -6685121578369208928
+    second: DodecaDoom_AveGhost_44
+  - first:
+      213: 7029225460968281637
+    second: DodecaDoom_AveGhost_45
+  - first:
+      213: -3091842662934130138
+    second: DodecaDoom_AveGhost_46
+  - first:
+      213: -1925764682952829795
+    second: DodecaDoom_AveGhost_47
+  - first:
+      213: 7666208704406013740
+    second: DodecaDoom_AveGhost_48
+  - first:
+      213: -2483706211372823663
+    second: DodecaDoom_AveGhost_49
+  - first:
+      213: 6370613100759960880
+    second: DodecaDoom_AveGhost_50
+  - first:
+      213: 7491343647632907104
+    second: DodecaDoom_AveGhost_51
+  - first:
+      213: 5704333084236723494
+    second: DodecaDoom_AveGhost_52
+  - first:
+      213: 8275926824862192795
+    second: DodecaDoom_AveGhost_53
+  - first:
+      213: -4390085189661008644
+    second: DodecaDoom_AveGhost_54
+  - first:
+      213: -1242205370898462018
+    second: DodecaDoom_AveGhost_55
+  - first:
+      213: 910846267086401430
+    second: DodecaDoom_AveGhost_56
+  - first:
+      213: 2043229211809017045
+    second: DodecaDoom_AveGhost_57
+  - first:
+      213: 4462104657832272331
+    second: DodecaDoom_AveGhost_58
+  - first:
+      213: 3649033472459665356
+    second: DodecaDoom_AveGhost_59
+  - first:
+      213: 5425954291581322662
+    second: DodecaDoom_AveGhost_60
+  - first:
+      213: 5019534939865810663
+    second: DodecaDoom_AveGhost_61
+  - first:
+      213: 3000545020314489385
+    second: DodecaDoom_AveGhost_62
+  - first:
+      213: -8939276853048146278
+    second: DodecaDoom_AveGhost_63
+  - first:
+      213: -4310516221508132035
+    second: DodecaDoom_AveGhost_64
+  - first:
+      213: 8447269829729708387
+    second: DodecaDoom_AveGhost_65
+  - first:
+      213: 6926694579935934404
+    second: DodecaDoom_AveGhost_66
+  - first:
+      213: -6395243271854885414
+    second: DodecaDoom_AveGhost_67
+  - first:
+      213: 2481178092944011436
+    second: DodecaDoom_AveGhost_68
+  - first:
+      213: -1091327944096576904
+    second: DodecaDoom_AveGhost_69
+  - first:
+      213: -4620110519675707691
+    second: DodecaDoom_AveGhost_70
+  - first:
+      213: -3094197079658856804
+    second: DodecaDoom_AveGhost_71
+  - first:
+      213: -55654697976486630
+    second: DodecaDoom_AveGhost_72
+  - first:
+      213: 7577687341375252543
+    second: DodecaDoom_AveGhost_73
+  - first:
+      213: -5830812893648852206
+    second: DodecaDoom_AveGhost_74
+  - first:
+      213: -5661731585668835508
+    second: DodecaDoom_AveGhost_75
+  - first:
+      213: -3181495329665169723
+    second: DodecaDoom_AveGhost_76
+  - first:
+      213: 1386286919539512744
+    second: DodecaDoom_AveGhost_77
+  - first:
+      213: -6322174613793003910
+    second: DodecaDoom_AveGhost_78
+  - first:
+      213: -1315242605493574805
+    second: DodecaDoom_AveGhost_79
+  - first:
+      213: 5355053574187281198
+    second: DodecaDoom_AveGhost_80
+  - first:
+      213: 2713193211520930715
+    second: DodecaDoom_AveGhost_81
+  - first:
+      213: -3195331317326464079
+    second: DodecaDoom_AveGhost_82
+  - first:
+      213: -1512508306161271153
+    second: DodecaDoom_AveGhost_83
+  - first:
+      213: 7252072201020461002
+    second: DodecaDoom_AveGhost_84
+  - first:
+      213: -2229699814318967683
+    second: DodecaDoom_AveGhost_85
+  - first:
+      213: -8258193936445878689
+    second: DodecaDoom_AveGhost_86
+  - first:
+      213: 8853985560676777837
+    second: DodecaDoom_AveGhost_87
+  - first:
+      213: -3750134221125486647
+    second: DodecaDoom_AveGhost_88
+  - first:
+      213: -150036402071633984
+    second: DodecaDoom_AveGhost_89
+  - first:
+      213: 5895069775890406713
+    second: DodecaDoom_AveGhost_90
+  - first:
+      213: 3797082141494206984
+    second: DodecaDoom_AveGhost_91
+  - first:
+      213: 1239952105763131275
+    second: DodecaDoom_AveGhost_92
+  - first:
+      213: 2530803467806737854
+    second: DodecaDoom_AveGhost_93
+  - first:
+      213: 8791148887163026594
+    second: DodecaDoom_AveGhost_94
+  - first:
+      213: -5652513490354950554
+    second: DodecaDoom_AveGhost_95
+  - first:
+      213: -9088399832288139926
+    second: DodecaDoom_AveGhost_96
+  - first:
+      213: 5004956847234802161
+    second: DodecaDoom_AveGhost_97
+  - first:
+      213: -4059998992377689692
+    second: DodecaDoom_AveGhost_98
+  - first:
+      213: 4135786326773823807
+    second: DodecaDoom_AveGhost_99
+  - first:
+      213: 4011757144765867531
+    second: DodecaDoom_AveGhost_100
+  - first:
+      213: 6572203948020774658
+    second: DodecaDoom_AveGhost_101
+  - first:
+      213: -7951558111468153697
+    second: DodecaDoom_AveGhost_102
+  - first:
+      213: 2145637654161985576
+    second: DodecaDoom_AveGhost_103
+  - first:
+      213: 5565117214055783903
+    second: DodecaDoom_AveGhost_104
+  - first:
+      213: 8714853068279613752
+    second: DodecaDoom_AveGhost_105
+  - first:
+      213: 941556251847184550
+    second: DodecaDoom_AveGhost_106
+  - first:
+      213: -2325561663048063190
+    second: DodecaDoom_AveGhost_107
+  - first:
+      213: -9019804108326384709
+    second: DodecaDoom_AveGhost_108
+  - first:
+      213: -893604429552468350
+    second: DodecaDoom_AveGhost_109
+  - first:
+      213: 4988929455561123575
+    second: DodecaDoom_AveGhost_110
+  - first:
+      213: -8818448391217062987
+    second: DodecaDoom_AveGhost_111
+  - first:
+      213: -2136918597623859692
+    second: DodecaDoom_AveGhost_112
+  - first:
+      213: -6043771360300066473
+    second: DodecaDoom_AveGhost_113
+  - first:
+      213: -7646318331025491098
+    second: DodecaDoom_AveGhost_114
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 490
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44e421c16c2cd5a0800000000000000
+      internalID: -6495267764211227570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 488
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2701950103003f490800000000000000
+      internalID: -7713821530322825102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 490
+        width: 23
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd29f18d811bd9f0800000000000000
+      internalID: -442740838897209857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 487
+        width: 26
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dbe1effcdb0fb30800000000000000
+      internalID: 4319160743667613067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 484
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc520c16c5e5206b0800000000000000
+      internalID: -5331595257983261235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 493
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdc52caff37aaa50800000000000000
+      internalID: 6533161751396339121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 484
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b40f292b2f78b10800000000000000
+      internalID: 1983821009663314691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 493
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2626b7b8f114120800000000000000
+      internalID: 2396231160668775102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 485
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0be775111f148c0800000000000000
+      internalID: -4016664335853113098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 457
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b446054e300514e0800000000000000
+      internalID: -2011701391105047376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 458
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f8d606d787056f0800000000000000
+      internalID: -697925462358388916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 459
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721beaf36ca0015a0800000000000000
+      internalID: -6552725611235856089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 460
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6069aee06cee5d0800000000000000
+      internalID: -3031267731806222681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 452
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf1503238d493a90800000000000000
+      internalID: -7333745292572549201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 461
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48685c4aad691330800000000000000
+      internalID: 3682094748544821326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 458
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b633f32d950b720800000000000000
+      internalID: 2859884522918603664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 448
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967fa94fa7bdfa260800000000000000
+      internalID: 7111143657777592169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 460
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918d86825e5826d90800000000000000
+      internalID: -7105970042765256679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 457
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c8a98138128b0b0800000000000000
+      internalID: -5712779280382260183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 457
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57deba7223b8b18a0800000000000000
+      internalID: -6333315403436266123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_20
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 450
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2e98ef8753f4c90800000000000000
+      internalID: -7183464086849854744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 448
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf7be7beb2b71270800000000000000
+      internalID: 8221236176987324378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 423
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b2fb284db3c640800000000000000
+      internalID: 5099127320786155952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 424
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72795a143e73b7140800000000000000
+      internalID: 4718426483799201575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 418
+        width: 26
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ba9990f78316520800000000000000
+      internalID: 2693496170417335046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 436
+        width: 9
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c5a9aac6e0817b0800000000000000
+      internalID: -5253433105446183815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 417
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2895956acd8953f60800000000000000
+      internalID: 8013479185426766210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 426
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b0fab918b2c2400800000000000000
+      internalID: 300663110789696280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 417
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bca4f3fcec89200800000000000000
+      internalID: 187126774051294057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 422
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b37b6ffa0c564f00800000000000000
+      internalID: 1100668361243325362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_30
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 423
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333f45a6120e95030800000000000000
+      internalID: 3484062220870284083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 391
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc69adf3e46e8540800000000000000
+      internalID: 5012054365686033586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 392
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b150a885a3b555a80800000000000000
+      internalID: -8478770417303419621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 386
+        width: 26
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fdd757e7352db90800000000000000
+      internalID: -7218615450119315712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 404
+        width: 9
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6fdc9acfa812680800000000000000
+      internalID: -8781584980610517328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 385
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0210f2a87c5442020800000000000000
+      internalID: 2316052831694422304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 394
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be25ed25aad0640800000000000000
+      internalID: 5047878030246210454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 385
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7391cc56eeceffba0800000000000000
+      internalID: -6052858865508411081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 391
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b9c724ed2e03c30800000000000000
+      internalID: 4337215885383867182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_39
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 390
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeb6710fa6bb7b50800000000000000
+      internalID: 6592063342346944226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 362
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bd0dd37c0d92e90800000000000000
+      internalID: -7049874187517633691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_41
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 357
+        width: 11
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652bd0f3a69a07aa0800000000000000
+      internalID: -6165241616080719274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 363
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23be9ea23e989e630800000000000000
+      internalID: 3956845356392246066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_43
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 358
+        width: 11
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cc4e803def4ecd0800000000000000
+      internalID: -2529616908334609323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_44
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 362
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad2101085da933a0800000000000000
+      internalID: -6685121578369208928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 357
+        width: 11
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52655277053dc8160800000000000000
+      internalID: 7029225460968281637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 359
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622d966ba719715d0800000000000000
+      internalID: -3091842662934130138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_47
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 354
+        width: 11
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d949a97593f4645e0800000000000000
+      internalID: -1925764682952829795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 335
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27c0280338d36a60800000000000000
+      internalID: 7666208704406013740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 326
+        width: 11
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b01b82c5a188dd0800000000000000
+      internalID: -2483706211372823663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 328
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d4f38bcd6f86850800000000000000
+      internalID: 6370613100759960880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 327
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bd98f4b5996f760800000000000000
+      internalID: 7491343647632907104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 329
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625307e97bcd92f40800000000000000
+      internalID: 5704333084236723494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 328
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b949907799ff9d270800000000000000
+      internalID: 8275926824862192795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_54
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 328
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc5d8897c84313c0800000000000000
+      internalID: -4390085189661008644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_55
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 327
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebac381fbccc2cee0800000000000000
+      internalID: -1242205370898462018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 327
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69feca2aad9f3ac00800000000000000
+      internalID: 910846267086401430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 294
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dce39484220b5c10800000000000000
+      internalID: 2043229211809017045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_58
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 301
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc165b88b849ced30800000000000000
+      internalID: 4462104657832272331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 297
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfe77b1c98f3a230800000000000000
+      internalID: 3649033472459665356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 295
+        width: 24
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a506352eacdc4b40800000000000000
+      internalID: 5425954291581322662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 296
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e60d54ee68f8a540800000000000000
+      internalID: 5019534939865810663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 299
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92299646cc314a920800000000000000
+      internalID: 3000545020314489385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 295
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a968131801f41f380800000000000000
+      internalID: -8939276853048146278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_64
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 297
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33e27aa558fd24c0800000000000000
+      internalID: -4310516221508132035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 265
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369e9e2972bba3570800000000000000
+      internalID: 8447269829729708387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 269
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c774b07500902060800000000000000
+      internalID: 6926694579935934404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 263
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5f1e0b0288f37a0800000000000000
+      internalID: -6395243271854885414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_68
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 263
+        width: 24
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0b866645aee6220800000000000000
+      internalID: 2481178092944011436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 267
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a8aa65403dad0f0800000000000000
+      internalID: -1091327944096576904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_70
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 264
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de1fa3f5f112efb0800000000000000
+      internalID: -4620110519675707691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_71
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 265
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ef1e956243f05d0800000000000000
+      internalID: -3094197079658856804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_72
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 263
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15a709d8564a3ff0800000000000000
+      internalID: -55654697976486630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_73
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 236
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3865a91d7a592960800000000000000
+      internalID: 7577687341375252543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 231
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bea42f09ac41fa0800000000000000
+      internalID: -5830812893648852206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_75
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 230
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c479996be1d7d61b0800000000000000
+      internalID: -5661731585668835508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_76
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 240
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c64ebc9ade09d3d0800000000000000
+      internalID: -3181495329665169723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_77
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 234
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a55ce3cb941d3310800000000000000
+      internalID: 1386286919539512744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 203
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7620e06faf1348a0800000000000000
+      internalID: -6322174613793003910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_79
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 203
+        width: 22
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63a81a91d15fbde0800000000000000
+      internalID: -1315242605493574805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 166
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b6e9a7ad8f05a40800000000000000
+      internalID: 5355053574187281198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_81
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93d4bbc9d237a520800000000000000
+      internalID: 2713193211520930715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_82
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 165
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb3313b817e7a3d0800000000000000
+      internalID: -3195331317326464079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_83
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 138
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8efd6b85bd720be0800000000000000
+      internalID: -1512508306161271153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_84
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 137
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf4f436e3984a460800000000000000
+      internalID: 7252072201020461002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_85
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 135
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7473c315d38e01e0800000000000000
+      internalID: -2229699814318967683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_86
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 108
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ecbdb5e50056d80800000000000000
+      internalID: -8258193936445878689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_87
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 103
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fb39ef4fcafda70800000000000000
+      internalID: 8853985560676777837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_88
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 111
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c777c18bc8d4fbc0800000000000000
+      internalID: -3750134221125486647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_89
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 107
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf742fefa6faedf0800000000000000
+      internalID: -150036402071633984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_90
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 113
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dd61e4abe7fc150800000000000000
+      internalID: 5895069775890406713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_91
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 108
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802edb20712f1b430800000000000000
+      internalID: 3797082141494206984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_92
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 114
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f4282eed1353110800000000000000
+      internalID: 1239952105763131275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_93
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 109
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb582fe58583f1320800000000000000
+      internalID: 2530803467806737854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_94
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 75
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac3cead55f600a70800000000000000
+      internalID: 8791148887163026594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_95
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 82
+        width: 19
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e2a47cdec3e81b0800000000000000
+      internalID: -5652513490354950554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_96
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 79
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65eeb341848fd180800000000000000
+      internalID: -9088399832288139926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 84
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1e6933cbd257540800000000000000
+      internalID: 5004956847234802161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_98
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 81
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a942ee5d6cf7a7c0800000000000000
+      internalID: -4059998992377689692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_99
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 85
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39754a70c3456930800000000000000
+      internalID: 4135786326773823807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_100
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 77
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06a7e23edf9ca730800000000000000
+      internalID: 4011757144765867531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_101
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 38
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207b2317ba8253b50800000000000000
+      internalID: 6572203948020774658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_102
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 39
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94901bd60466a190800000000000000
+      internalID: -7951558111468153697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_103
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 40
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82017011416d6cd10800000000000000
+      internalID: 2145637654161985576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_104
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 40
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddd435fe944b3d40800000000000000
+      internalID: 5565117214055783903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_105
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 41
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839878c31b061f870800000000000000
+      internalID: 8714853068279613752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_106
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 41
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a056672c64111d00800000000000000
+      internalID: 941556251847184550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_107
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 42
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27e0c22df1f9bfd0800000000000000
+      internalID: -2325561663048063190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_108
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbc893d3f733d280800000000000000
+      internalID: -9019804108326384709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_109
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 8
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e3fce71874993f0800000000000000
+      internalID: -893604429552468350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_110
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 7
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6243848ec3c3540800000000000000
+      internalID: 4988929455561123575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_111
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 9
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb546b09e39e9580800000000000000
+      internalID: -8818448391217062987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_112
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 8
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41634ba7bd32852e0800000000000000
+      internalID: -2136918597623859692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_113
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 10
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75992a518f5302ca0800000000000000
+      internalID: -6043771360300066473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_AveGhost_114
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 9
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bfaa76df1d2e590800000000000000
+      internalID: -7646318331025491098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
