@@ -48,7 +48,12 @@ public class Health : MonoBehaviour
         }
         if (health <= 0)
         {
-            GetComponent<Enemy>()?.AddScore();
+            if (!isPlayer)
+            {
+                GetComponent<EnemySound>().PlaySoundEffect(EnemySound.EffectType.DISAPPEAR);
+                GetComponent<Enemy>()?.AddScore();
+            }
+            
             if (anim)
             {
                 anim.SetTrigger("die");

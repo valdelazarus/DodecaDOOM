@@ -13,13 +13,17 @@ public class Enemy : MonoBehaviour
 
     GameManager gameManager;
 
+    EnemySound enemySound;
+
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
         sprite = transform.GetChild(0);
         player = GameObject.FindWithTag("Player").transform;
         gameManager = FindObjectOfType<GameManager>();
-        
+
+        enemySound = GetComponent<EnemySound>();
+        enemySound.PlaySoundEffect(EnemySound.EffectType.APPEAR);
     }
 
     

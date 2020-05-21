@@ -10,8 +10,12 @@ public class ClockManager : MonoBehaviour
 
     UIManager uiManager;
 
+    AudioSource audioSource;
+
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
+
         uiManager = FindObjectOfType<UIManager>();
 
         uiManager.UpdateClockText(currentClockTime.ToString());
@@ -22,6 +26,7 @@ public class ClockManager : MonoBehaviour
 
     void IncrementClockTime()
     {
+        audioSource.Play();
         if (currentClockTime > 12) return;
         currentClockTime++;
         if (currentClockTime <= 12)

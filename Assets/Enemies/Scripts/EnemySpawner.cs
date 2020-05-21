@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemySpawner : MonoBehaviour
 {
-    public GameObject enemyPrefab;
+    public GameObject[] enemyPrefabs;
 
     public Transform[] spawnPositions;
 
@@ -17,7 +17,8 @@ public class EnemySpawner : MonoBehaviour
     public void SpawnGhosts()
     {
         int rand = Random.Range(0, spawnPositions.Length);
+        int enemyRand = Random.Range(0, enemyPrefabs.Length);
 
-        Instantiate(enemyPrefab, spawnPositions[rand].position, Quaternion.identity);
+        Instantiate(enemyPrefabs[enemyRand], spawnPositions[rand].position, Quaternion.identity);
     }
 }

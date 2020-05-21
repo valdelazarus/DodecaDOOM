@@ -363,9 +363,9 @@ AudioSource:
   m_GameObject: {fileID: 581303820}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: -4862118869881497544, guid: 8a37e05520e3a43c38e8b99902c4223c,
+  OutputAudioMixerGroup: {fileID: -7062708454380667282, guid: 7e32ac8823e9e4d369e71976cc0893de,
     type: 2}
-  m_audioClip: {fileID: 8300000, guid: fa6ae7c0c17b4454fa9482d0f73c3517, type: 3}
+  m_audioClip: {fileID: 8300000, guid: bf93781236962477d963ad146b00d72a, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -803,10 +803,8 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "The challenge of time is about to begin. \nHero, press on and decide your
     fate!\n\nMovement: W A S D | Arrow buttons\n\nAbility 1: Left mouse button |
-    Left Ctrl - Ability 2: Right mouse button | Left Alt\n\nRules: Every hour is
-    different. Defeat the tower master before the clock resets to win the game. \n\nWin
-    condition: Proceed to the end of the level.\nLose condition: Ship runs out of
-    health points."
+    Left Ctrl - Ability 2: Right mouse button | Left Alt\n\nGame rule: Defeat the
+    tower master before the end of 12 hours to win the game. "
 --- !u!222 &1184984906
 CanvasRenderer:
   m_ObjectHideFlags: 0

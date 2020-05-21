@@ -14,6 +14,7 @@ public class PlayerController : MonoBehaviour
 
     Rigidbody myRB;
     Animator myAnim;
+    PlayerSound playerSound;
 
     bool canMelee = true, canRanged = true;
 
@@ -21,6 +22,7 @@ public class PlayerController : MonoBehaviour
     {
         myRB = GetComponent<Rigidbody>();
         myAnim = GetComponent<Animator>();
+        playerSound = GetComponent<PlayerSound>();
     }
 
     
@@ -58,6 +60,7 @@ public class PlayerController : MonoBehaviour
     {
         if (CrossPlatformInputManager.GetButtonDown("Fire1") && canMelee)
         {
+            playerSound.PlaySoundEffect(PlayerSound.EffectType.ATTACK_1);
             canMelee = false;
             myAnim.SetTrigger("melee");
             StartCoroutine(ResetMelee());
@@ -106,6 +109,7 @@ public class PlayerController : MonoBehaviour
 
     public void SpawnProjectile()
     {
+        playerSound.PlaySoundEffect(PlayerSound.EffectType.ATTACK_2);
         string direction = GetFacingDirection();
         GameObject spawned = null;
         switch (direction)

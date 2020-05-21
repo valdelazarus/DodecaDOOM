@@ -2158,9 +2158,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 3
-        y: 265
-        width: 7
-        height: 7
+        y: 263
+        width: 24
+        height: 16
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2170,48 +2170,6 @@ TextureImporter:
       bones: []
       spriteID: 369e9e2972bba3570800000000000000
       internalID: 8447269829729708387
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DodecaDoom_AveGhost_66
-      rect:
-        serializedVersion: 2
-        x: 10
-        y: 269
-        width: 7
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4c774b07500902060800000000000000
-      internalID: 6926694579935934404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DodecaDoom_AveGhost_67
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 263
-        width: 10
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad5f1e0b0288f37a0800000000000000
-      internalID: -6395243271854885414
       vertices: []
       indices: 
       edges: []
