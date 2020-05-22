@@ -45,22 +45,35 @@ public class Health : MonoBehaviour
         if (isPlayer)
         {
             uiManager.UpdateHealthBar(health, maxHealth);
+            GetComponent<PlayerSound>().PlaySoundEffect(PlayerSound.EffectType.HURT);
         }
         if (health <= 0)
         {
-            if (!isPlayer)
-            {
-                GetComponent<EnemySound>().PlaySoundEffect(EnemySound.EffectType.DISAPPEAR);
-                GetComponent<Enemy>()?.AddScore();
-            }
-            
             if (anim)
             {
-                anim.SetTrigger("die");
+                anim.SetTrigger("dead");
             }
             else
             {
                 Destroy(gameObject);
+            }
+
+            if (!isPlayer)
+            {
+                GetComponent<EnemySound>().PlaySoundEffect(EnemySound.EffectType.DISAPPEAR);
+                GetComponent<Enemy>()?.AddScore();
+                GetComponent<Collider>().enabled = false;
+            }
+            else
+            {
+                GetComponent<PlayerController>().enabled = false;
+            }
+        }
+        else
+        {
+            if (anim)
+            {
+                anim.SetTrigger("hit");
             }
         }
     }

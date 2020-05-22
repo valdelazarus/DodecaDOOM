@@ -161,4 +161,9 @@ public class PlayerController : MonoBehaviour
     {
         meleeHitColliders[3].SetActive(false);
     }
+
+    public void OnDead()
+    {
+        FindObjectOfType<GameManager>().GameOver();
+    }
 }

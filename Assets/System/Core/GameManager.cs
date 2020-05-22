@@ -60,5 +60,9 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    public void GameOver()
+    {
+        levelManager.LoadScene("Game Over");
+    }
   
 }

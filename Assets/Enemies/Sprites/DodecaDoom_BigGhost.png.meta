@@ -488,6 +488,15 @@ TextureImporter:
   - first:
       213: 3515091633031045427
     second: DodecaDoom_BigGhost_80
+  - first:
+      213: 7084297794009381803
+    second: DodecaDoom_BigGhost_81
+  - first:
+      213: 2595707573806476950
+    second: DodecaDoom_BigGhost_82
+  - first:
+      213: -7824249377495398150
+    second: DodecaDoom_BigGhost_83
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -653,8 +662,8 @@ TextureImporter:
         serializedVersion: 2
         x: 96
         y: 483
-        width: 64
-        height: 24
+        width: 32
+        height: 23
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -821,8 +830,8 @@ TextureImporter:
         serializedVersion: 2
         x: 65
         y: 449
-        width: 95
-        height: 26
+        width: 31
+        height: 25
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2281,6 +2290,69 @@ TextureImporter:
       bones: []
       spriteID: 33163cb673d18c030800000000000000
       internalID: 3515091633031045427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BigGhost_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 484
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab33073f4b705260800000000000000
+      internalID: 7084297794009381803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BigGhost_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 451
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ea685294ec50420800000000000000
+      internalID: 2595707573806476950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BigGhost_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 452
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8c05455aeaa6390800000000000000
+      internalID: -7824249377495398150
       vertices: []
       indices: 
       edges: []
