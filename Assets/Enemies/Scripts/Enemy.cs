@@ -10,6 +10,8 @@ public class Enemy : MonoBehaviour
     public float attackRate;
     public GameObject[] meleeHitColliders;
     public GameObject hitColliderParentObj;
+    public GameObject projectile;
+    public Transform[] projectileSpawnPos;
 
     const float spriteRotationFacingCam = 60f;
 
@@ -115,4 +117,47 @@ public class Enemy : MonoBehaviour
         meleeHitColliders[3].SetActive(false);
     }
 
+    string GetFacingDirection()
+    {
+        string direction = "down";
+        if (anim.GetFloat("lastMoveX") >= 1f)
+        {
+            direction = "right";
+        }
+        else if (anim.GetFloat("lastMoveX") <= -1f)
+        {
+            direction = "left";
+        }
+        else if (anim.GetFloat("lastMoveY") >= 1f)
+        {
+            direction = "up";
+        }
+        else if (anim.GetFloat("lastMoveY") <= -1f)
+        {
+            direction = "down";
+        }
+        return direction;
+    }
+
+    public void SpawnProjectile()
+    {
+        string direction = GetFacingDirection();
+        GameObject spawned = null;
+        switch (direction)
+        {
+            case "down":
+                spawned = Instantiate(projectile, projectileSpawnPos[0].position, Quaternion.identity);
+                break;
+            case "up":
+                spawned = Instantiate(projectile, projectileSpawnPos[1].position, Quaternion.identity);
+                break;
+            case "left":
+                spawned = Instantiate(projectile, projectileSpawnPos[2].position, Quaternion.identity);
+                break;
+            case "right":
+                spawned = Instantiate(projectile, projectileSpawnPos[3].position, Quaternion.identity);
+                break;
+        }
+        spawned?.GetComponent<EnemyProjectile>().UpdateAnimation(anim.GetFloat("lastMoveX"), anim.GetFloat("lastMoveY"));
+    }
 }

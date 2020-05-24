@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    public GameObject[] environmentGroups;
+    public Material[] floorMats, wallMats;
+    public MeshRenderer floor;
+    public MeshRenderer[] walls;
 
     ClockManager clockManager;
     UIManager uiManager;
@@ -21,25 +23,41 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
-        EnableEnvironmentAtClockTime(clockManager.currentClockTime);
+        ChangeEnvironmentAtClockTime(clockManager.currentClockTime);
         CheckForWin();
     }
 
-    void EnableEnvironmentAtClockTime(int currentClockTime)
+    void ChangeEnvironmentAtClockTime(int currentClockTime)
     {
         switch (currentClockTime)
         {
+            case 0:
+                floor.material = floorMats[0];
+                foreach (MeshRenderer w in walls)
+                {
+                    w.material = wallMats[0];
+                }
+                break;
             case 3:
-                environmentGroups[0].SetActive(false);
-                environmentGroups[1].SetActive(true);
+                floor.material = floorMats[1];
+                foreach(MeshRenderer w in walls)
+                {
+                    w.material = wallMats[1];
+                }
                 break;
             case 6:
-                environmentGroups[1].SetActive(false);
-                environmentGroups[2].SetActive(true);
+                floor.material = floorMats[2];
+                foreach (MeshRenderer w in walls)
+                {
+                    w.material = wallMats[2];
+                }
                 break;
             case 9:
-                environmentGroups[2].SetActive(false);
-                environmentGroups[3].SetActive(true);
+                floor.material = floorMats[3];
+                foreach (MeshRenderer w in walls)
+                {
+                    w.material = wallMats[3];
+                }
                 break;
         }
     }

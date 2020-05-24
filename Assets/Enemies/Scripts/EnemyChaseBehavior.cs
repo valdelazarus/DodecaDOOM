@@ -19,12 +19,13 @@ public class EnemyChaseBehavior : StateMachineBehaviour
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         agent.destination = player.position;
+        agent.isStopped = false;
 
         Vector3 directionToPlayer = player.position - animator.transform.position;
         animator.SetFloat("moveX", directionToPlayer.x);
         animator.SetFloat("moveY", directionToPlayer.z);
 
-        if (directionToPlayer.x >= 1 || directionToPlayer.x <= -1 || directionToPlayer.z >= 1 || directionToPlayer.z <= -1)
+        if (directionToPlayer.x >= 1f || directionToPlayer.x <= -1f || directionToPlayer.z >= 1f || directionToPlayer.z <= -1f)
         {
             animator.SetFloat("lastMoveX", directionToPlayer.x);
             animator.SetFloat("lastMoveY", directionToPlayer.z);
@@ -32,10 +33,11 @@ public class EnemyChaseBehavior : StateMachineBehaviour
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
-    //override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    //{
-    //    
-    //}
+    override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+    {
+        if (agent)
+            agent.isStopped = true;
+    }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()
     //override public void OnStateMove(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)

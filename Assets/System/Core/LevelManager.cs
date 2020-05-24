@@ -14,7 +14,16 @@ public class LevelManager : MonoBehaviour
 
     void Start()
     {
-        anim = GetComponent<Animator>();    
+        anim = GetComponent<Animator>();
+
+        if (SceneManager.GetActiveScene().name == "Game")
+        {
+            Cursor.visible = false;
+        }
+        else
+        {
+            Cursor.visible = true;
+        }
     }
 
     //load scene based on scene name

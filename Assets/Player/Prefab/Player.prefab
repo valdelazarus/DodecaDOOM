@@ -733,7 +733,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   meleeAttackRate: 1
-  rangedAttackRate: 2
+  rangedAttackRate: 1.5
   projectile: {fileID: 6709526919514264964, guid: 2e107a6e4345e4751829478997aa4654,
     type: 3}
   projectileSpawnPos:
@@ -758,7 +758,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f17068f7da0d41d793639bb3b281afb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 200
+  maxHealth: 300
   isPlayer: 1
 --- !u!114 &3457470137152096705
 MonoBehaviour:
