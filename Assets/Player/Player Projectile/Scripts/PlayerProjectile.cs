@@ -13,6 +13,8 @@ public class PlayerProjectile : MonoBehaviour
     public float criticalChance;
     public float criticalMultiplier;
 
+    public GameObject hitFX;
+
     Rigidbody rb;
     Animator anim;
     SpriteRenderer spriteRenderer;
@@ -66,6 +68,7 @@ public class PlayerProjectile : MonoBehaviour
     {
         if (other.tag == "Enemy")
         {
+            Instantiate(hitFX, other.transform.position, Quaternion.identity);
             int damage = (int)CalculatedDamage();
             other.GetComponent<Health>().DeductHealth(damage);
             other.GetComponent<AttackedScrollingText>().OnAttack(damage, isCritical);

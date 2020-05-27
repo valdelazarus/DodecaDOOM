@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
     Rigidbody myRB;
     Animator myAnim;
     PlayerSound playerSound;
+    UIManager uiManager;
 
     bool canMelee = true, canRanged = true;
 
@@ -23,6 +24,7 @@ public class PlayerController : MonoBehaviour
         myRB = GetComponent<Rigidbody>();
         myAnim = GetComponent<Animator>();
         playerSound = GetComponent<PlayerSound>();
+        uiManager = FindObjectOfType<UIManager>();
     }
 
     
@@ -63,12 +65,14 @@ public class PlayerController : MonoBehaviour
             playerSound.PlaySoundEffect(PlayerSound.EffectType.ATTACK_1);
             canMelee = false;
             myAnim.SetTrigger("melee");
+            uiManager.ShowAbilityInCooldown(1);
             StartCoroutine(ResetMelee());
         }
         else if (CrossPlatformInputManager.GetButtonDown("Fire2") && canRanged)
         {
             canRanged = false;
             myAnim.SetTrigger("ranged");
+            uiManager.ShowAbilityInCooldown(2);
             StartCoroutine(ResetRanged());
         }
     }
@@ -77,12 +81,14 @@ public class PlayerController : MonoBehaviour
     {
         yield return new WaitForSeconds(meleeAttackRate);
         canMelee = true;
+        uiManager.ShowAbilityIsAvailable(1);
     }
 
     IEnumerator ResetRanged()
     {
         yield return new WaitForSeconds(rangedAttackRate);
         canRanged = true;
+        uiManager.ShowAbilityIsAvailable(2);
     }
 
     string GetFacingDirection()

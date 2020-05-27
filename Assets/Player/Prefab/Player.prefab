@@ -203,6 +203,7 @@ MonoBehaviour:
   maxDamage: 20
   criticalChance: 0.4
   criticalMultiplier: 1.5
+  hitFX: {fileID: 2145197138025643308, guid: 9332b2213ca204009ba0a2406b4c9327, type: 3}
 --- !u!1 &3457470135791787876
 GameObject:
   m_ObjectHideFlags: 0
@@ -375,6 +376,7 @@ MonoBehaviour:
   maxDamage: 20
   criticalChance: 0.4
   criticalMultiplier: 1.5
+  hitFX: {fileID: 2145197138025643308, guid: 9332b2213ca204009ba0a2406b4c9327, type: 3}
 --- !u!1 &3457470136224466072
 GameObject:
   m_ObjectHideFlags: 0
@@ -466,6 +468,7 @@ MonoBehaviour:
   maxDamage: 20
   criticalChance: 0.4
   criticalMultiplier: 1.5
+  hitFX: {fileID: 2145197138025643308, guid: 9332b2213ca204009ba0a2406b4c9327, type: 3}
 --- !u!1 &3457470137099252770
 GameObject:
   m_ObjectHideFlags: 0
@@ -527,6 +530,7 @@ MonoBehaviour:
   maxDamage: 20
   criticalChance: 0.4
   criticalMultiplier: 1.5
+  hitFX: {fileID: 2145197138025643308, guid: 9332b2213ca204009ba0a2406b4c9327, type: 3}
 --- !u!1 &3457470137152096712
 GameObject:
   m_ObjectHideFlags: 0

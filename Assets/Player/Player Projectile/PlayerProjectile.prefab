@@ -102,6 +102,7 @@ MonoBehaviour:
   maxDamage: 40
   criticalChance: 0.2
   criticalMultiplier: 1.5
+  hitFX: {fileID: 2145197138025643308, guid: 9332b2213ca204009ba0a2406b4c9327, type: 3}
 --- !u!1 &6709526920026419057
 GameObject:
   m_ObjectHideFlags: 0
