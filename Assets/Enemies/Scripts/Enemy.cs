@@ -81,6 +81,7 @@ public class Enemy : MonoBehaviour
 
     public void OnDead()
     {
+        GetComponent<PickupSpawner>().SpawnPickup();
         Destroy(gameObject);
     }
 

@@ -28,6 +28,8 @@ public class LevelManager : MonoBehaviour
         if (SceneManager.GetActiveScene().name == "Menu")
         {
             PlayerPrefs.SetInt("Score", 0);
+            PlayerPrefs.SetInt("SavingGrace", 0);
+            PlayerPrefs.SetInt("ClockTime", 0);
         }
     }
 

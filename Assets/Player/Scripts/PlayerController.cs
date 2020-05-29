@@ -171,6 +171,6 @@ public class PlayerController : MonoBehaviour
     public void OnDead()
     {
         GetComponent<Collider>().enabled = false;
-        FindObjectOfType<GameManager>().GameOver();
+        FindObjectOfType<GameManager>().CheckToRevive();
     }
 }

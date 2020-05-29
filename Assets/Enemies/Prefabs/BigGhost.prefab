@@ -99,6 +99,7 @@ GameObject:
   - component: {fileID: 2399657946524309108}
   - component: {fileID: 262806593752284026}
   - component: {fileID: 4649231870615477078}
+  - component: {fileID: 393581681535934892}
   m_Layer: 9
   m_Name: BigGhost
   m_TagString: Enemy
@@ -170,7 +171,7 @@ AudioSource:
     type: 2}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 0.8
+  m_Volume: 0.3
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -340,6 +341,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   appearClip: {fileID: 8300000, guid: f9df96ba347f94e159d6488c9f8b0f71, type: 3}
   disappearClip: {fileID: 8300000, guid: e2cbce09afc7c41f080e3720d1c3fabe, type: 3}
+--- !u!114 &393581681535934892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2399657946524309001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7ed781d996084cbfa1ce2ce1f98ca11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  savingGracePrefab: {fileID: 1965131667102517351, guid: 9b5ea444510de4894a21f56ceb102eb6,
+    type: 3}
+  dropRate: 0.2
 --- !u!1 &3591380045368141827
 GameObject:
   m_ObjectHideFlags: 0

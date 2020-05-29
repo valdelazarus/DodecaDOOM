@@ -32,4 +32,11 @@ public class ClockManager : MonoBehaviour
         if (currentClockTime <= 12)
             uiManager.UpdateClockText(currentClockTime.ToString());
     }
+
+    public void SetClockTime(int clockTime)
+    {
+        if (clockTime < 0) clockTime = 0;
+        currentClockTime = clockTime;
+        uiManager.UpdateClockText(currentClockTime.ToString());
+    }
 }

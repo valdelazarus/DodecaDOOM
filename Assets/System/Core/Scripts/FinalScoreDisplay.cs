@@ -14,6 +14,8 @@ public class FinalScoreDisplay : MonoBehaviour
         int score = PlayerPrefs.GetInt("Score");
         scoreText.text = "Final Score: " + score;
         PlayerPrefs.SetInt("Score", 0);
+        PlayerPrefs.SetInt("SavingGrace", 0);
+        PlayerPrefs.SetInt("ClockTime", 0);
     }
     
     void Update()

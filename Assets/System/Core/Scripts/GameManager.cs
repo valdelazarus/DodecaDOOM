@@ -15,22 +15,40 @@ public class GameManager : MonoBehaviour
     ClockManager clockManager;
     UIManager uiManager;
     LevelManager levelManager;
-    PlayerController player;
+    GameObject player;
     EnvironmentalHazard hazard;
 
     int currentScore;
+    int savingGraceCount;
+    int currentClockTime;
 
     bool paused;
+    bool playerDead;
 
     void Start()
     {
         clockManager = FindObjectOfType<ClockManager>();
         uiManager = FindObjectOfType<UIManager>();
         levelManager = FindObjectOfType<LevelManager>();
-        player = FindObjectOfType<PlayerController>();
         hazard = FindObjectOfType<EnvironmentalHazard>();
+        player = GameObject.FindWithTag("Player");
+
+        if (PlayerPrefs.HasKey("Score"))
+        {
+            currentScore = PlayerPrefs.GetInt("Score");
+        }
+        if (PlayerPrefs.HasKey("SavingGrace"))
+        {
+            savingGraceCount = PlayerPrefs.GetInt("SavingGrace");
+        }
+        if (PlayerPrefs.HasKey("ClockTime"))
+        {
+            currentClockTime = PlayerPrefs.GetInt("ClockTime");
+        }
 
         uiManager.UpdateScoreText(currentScore);
+        uiManager.UpdateSavingGraceCountText(savingGraceCount);
+        clockManager.SetClockTime(currentClockTime);
 
         InvokeRepeating("DestroyRandomWalls", hazardInitialDelay + gameHoursToDestroyWalls * clockManager.incrementClockRate, gameHoursToDestroyWalls * clockManager.incrementClockRate);
     }
@@ -47,6 +65,8 @@ public class GameManager : MonoBehaviour
         switch (currentClockTime)
         {
             case 0:
+            case 1:
+            case 2:
                 floor.material = floorMats[0];
                 foreach (MeshRenderer w in walls)
                 {
@@ -55,6 +75,8 @@ public class GameManager : MonoBehaviour
                 }
                 break;
             case 3:
+            case 4:
+            case 5:
                 floor.material = floorMats[1];
                 foreach(MeshRenderer w in walls)
                 {
@@ -63,6 +85,8 @@ public class GameManager : MonoBehaviour
                 }
                 break;
             case 6:
+            case 7:
+            case 8:
                 floor.material = floorMats[2];
                 foreach (MeshRenderer w in walls)
                 {
@@ -71,6 +95,9 @@ public class GameManager : MonoBehaviour
                 }
                 break;
             case 9:
+            case 10:
+            case 11:
+            case 12:
                 floor.material = floorMats[3];
                 foreach (MeshRenderer w in walls)
                 {
@@ -97,7 +124,7 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void GameOver()
+    void GameOver()
     {
         levelManager.LoadScene("Game Over");
     }
@@ -110,8 +137,15 @@ public class GameManager : MonoBehaviour
             uiManager.SetActivePauseMenu(paused);
         }
         Cursor.visible = paused;
-        player.enabled = !paused;
 
+        if (playerDead)
+        {
+            player.GetComponent<PlayerController>().enabled = false;
+        } else
+        {
+            player.GetComponent<PlayerController>().enabled = !paused;
+        }
+         
         if (paused)
         {
             Time.timeScale = 0f;
@@ -146,6 +180,42 @@ public class GameManager : MonoBehaviour
         for (int i = 0; i < rand; ++i)
         {
             hazard.DestroyRandomWall();
+        }
+    }
+
+    public void AddSavingGrace()
+    {
+        savingGraceCount++;
+        uiManager.UpdateSavingGraceCountText(savingGraceCount);
+        PlayerPrefs.SetInt("SavingGrace", savingGraceCount);
+    }
+
+    void DeductSavingGrace()
+    {
+        savingGraceCount--;
+        uiManager.UpdateSavingGraceCountText(savingGraceCount);
+        PlayerPrefs.SetInt("SavingGrace", savingGraceCount);
+    }
+
+    void RevivePlayerAtPreviousHour()
+    {
+        player.GetComponent<PlayerSound>().PlaySoundEffect(PlayerSound.EffectType.REVIVED);
+        PlayerPrefs.SetInt("ClockTime", clockManager.currentClockTime - 1);
+        uiManager.ShowRevivingIndicator();
+        levelManager.LoadScene("Game");
+    }
+
+    public void CheckToRevive()
+    {
+        playerDead = true;
+        if (savingGraceCount != 0)
+        {
+            DeductSavingGrace();
+            RevivePlayerAtPreviousHour();
+        }
+        else
+        {
+            GameOver();
         }
     }
 }

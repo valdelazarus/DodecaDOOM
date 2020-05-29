@@ -6,10 +6,10 @@ public class PlayerSound : MonoBehaviour
 {
     public enum EffectType
     {
-        ATTACK_1, ATTACK_2, HURT, REVIVED
+        ATTACK_1, ATTACK_2, HURT, REVIVED, PICKUP
     };
 
-    public AudioClip attack1Clip, attack2Clip, hurtClip, revivedClip;
+    public AudioClip attack1Clip, attack2Clip, hurtClip, revivedClip, pickUpClip;
 
     AudioSource audioSource;
 
@@ -33,6 +33,9 @@ public class PlayerSound : MonoBehaviour
                 break;
             case EffectType.REVIVED:
                 audioSource.PlayOneShot(revivedClip);
+                break;
+            case EffectType.PICKUP:
+                audioSource.PlayOneShot(pickUpClip);
                 break;
         }
     }

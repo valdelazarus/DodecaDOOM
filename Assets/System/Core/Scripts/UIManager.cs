@@ -10,6 +10,8 @@ public class UIManager : MonoBehaviour
     public Text scoreText;
     public Image ability1Image, ability2Image;
     public GameObject pauseMenu;
+    public Text savingGraceCountText;
+    public GameObject revivingIndicator;
 
     public void UpdateClockText(string timeText)
     {
@@ -57,5 +59,13 @@ public class UIManager : MonoBehaviour
     public void SetActivePauseMenu(bool active)
     {
         pauseMenu.SetActive(active);
+    }
+    public void UpdateSavingGraceCountText(int savingGraceCount)
+    {
+        savingGraceCountText.text = "x " + savingGraceCount;
+    }
+    public void ShowRevivingIndicator()
+    {
+        revivingIndicator.SetActive(true);
     }
 }
