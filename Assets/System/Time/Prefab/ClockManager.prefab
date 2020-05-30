@@ -141,5 +141,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d6f4c91c5b2d4b558443fff84560f78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  incrementClockRate: 20
+  incrementClockRate: 30
   currentClockTime: 0

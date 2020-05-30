@@ -12,6 +12,10 @@ public class UIManager : MonoBehaviour
     public GameObject pauseMenu;
     public Text savingGraceCountText;
     public GameObject revivingIndicator;
+    public GameObject rulesPanel;
+    public GameObject bossInfoPanel;
+    public Text bossInfoText;
+    public float bossInfoPanelDisplayDuration;
 
     public void UpdateClockText(string timeText)
     {
@@ -67,5 +71,26 @@ public class UIManager : MonoBehaviour
     public void ShowRevivingIndicator()
     {
         revivingIndicator.SetActive(true);
+    }
+
+    public void ShowRules()
+    {
+        rulesPanel.SetActive(true);
+    }
+    public void HideRules()
+    {
+        rulesPanel.SetActive(false);
+    }
+    public void DisplayBossInfo(string bossForm)
+    {
+        bossInfoPanel.SetActive(true);
+        bossInfoText.text = "Boss - " + bossForm + " Form appeared!";
+        Invoke("HideBossInfoPanel", bossInfoPanelDisplayDuration);
+    }
+
+    void HideBossInfoPanel()
+    {
+        bossInfoPanel.SetActive(false);
+        bossInfoText.text = "Boss - ? Form appeared!";
     }
 }

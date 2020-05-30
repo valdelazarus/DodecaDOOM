@@ -20,17 +20,18 @@ public class ClockManager : MonoBehaviour
 
         uiManager.UpdateClockText(currentClockTime.ToString());
 
-        //increment clock time every 1 minute in game time
         InvokeRepeating("IncrementClockTime", incrementClockRate, incrementClockRate);
     }
 
     void IncrementClockTime()
     {
-        audioSource.Play();
         if (currentClockTime > 12) return;
+        audioSource.Play();
         currentClockTime++;
         if (currentClockTime <= 12)
+        {
             uiManager.UpdateClockText(currentClockTime.ToString());
+        }
     }
 
     public void SetClockTime(int clockTime)

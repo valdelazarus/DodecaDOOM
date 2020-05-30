@@ -1,0 +1,2612 @@
+fileFormatVersion: 2
+guid: 88dc77d7e34924dbea70265fcd8d1bc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2638955463574796647
+    second: DodecaDoom_BossAdultGhost_0
+  - first:
+      213: -5167174140710877673
+    second: DodecaDoom_BossAdultGhost_1
+  - first:
+      213: -5138364031011122385
+    second: DodecaDoom_BossAdultGhost_2
+  - first:
+      213: -1586499942929493061
+    second: DodecaDoom_BossAdultGhost_3
+  - first:
+      213: -7124948342165221534
+    second: DodecaDoom_BossAdultGhost_4
+  - first:
+      213: 675985759085865439
+    second: DodecaDoom_BossAdultGhost_5
+  - first:
+      213: 4270685143611181948
+    second: DodecaDoom_BossAdultGhost_6
+  - first:
+      213: -6124409711338587422
+    second: DodecaDoom_BossAdultGhost_7
+  - first:
+      213: 6434425273011960892
+    second: DodecaDoom_BossAdultGhost_8
+  - first:
+      213: 2369216428408004721
+    second: DodecaDoom_BossAdultGhost_9
+  - first:
+      213: -4900150028468057976
+    second: DodecaDoom_BossAdultGhost_10
+  - first:
+      213: -516139966236787882
+    second: DodecaDoom_BossAdultGhost_11
+  - first:
+      213: 1928299436371521673
+    second: DodecaDoom_BossAdultGhost_12
+  - first:
+      213: -2212151004286683796
+    second: DodecaDoom_BossAdultGhost_13
+  - first:
+      213: -5121666412758034654
+    second: DodecaDoom_BossAdultGhost_14
+  - first:
+      213: -6511249912146441989
+    second: DodecaDoom_BossAdultGhost_15
+  - first:
+      213: 5265310210193041906
+    second: DodecaDoom_BossAdultGhost_16
+  - first:
+      213: 466250246022291225
+    second: DodecaDoom_BossAdultGhost_17
+  - first:
+      213: -1541807268545669150
+    second: DodecaDoom_BossAdultGhost_18
+  - first:
+      213: -2366333369322798394
+    second: DodecaDoom_BossAdultGhost_19
+  - first:
+      213: 1521669139868486373
+    second: DodecaDoom_BossAdultGhost_20
+  - first:
+      213: 8708028681066735154
+    second: DodecaDoom_BossAdultGhost_21
+  - first:
+      213: 264567634244631610
+    second: DodecaDoom_BossAdultGhost_22
+  - first:
+      213: -6523891014574620925
+    second: DodecaDoom_BossAdultGhost_23
+  - first:
+      213: -8750015250032668045
+    second: DodecaDoom_BossAdultGhost_24
+  - first:
+      213: 5764192467740034710
+    second: DodecaDoom_BossAdultGhost_25
+  - first:
+      213: -4701167828028538546
+    second: DodecaDoom_BossAdultGhost_26
+  - first:
+      213: -3636065268459875587
+    second: DodecaDoom_BossAdultGhost_27
+  - first:
+      213: 8423241027783750214
+    second: DodecaDoom_BossAdultGhost_28
+  - first:
+      213: -5843428084569066569
+    second: DodecaDoom_BossAdultGhost_29
+  - first:
+      213: 7622976903150984016
+    second: DodecaDoom_BossAdultGhost_30
+  - first:
+      213: -7040025057161628877
+    second: DodecaDoom_BossAdultGhost_31
+  - first:
+      213: 5128097461527780929
+    second: DodecaDoom_BossAdultGhost_32
+  - first:
+      213: -188098242595032268
+    second: DodecaDoom_BossAdultGhost_33
+  - first:
+      213: -7131613129531556539
+    second: DodecaDoom_BossAdultGhost_34
+  - first:
+      213: -6705696544578022438
+    second: DodecaDoom_BossAdultGhost_35
+  - first:
+      213: -69403202962454989
+    second: DodecaDoom_BossAdultGhost_36
+  - first:
+      213: 2364269603290649818
+    second: DodecaDoom_BossAdultGhost_37
+  - first:
+      213: 4695942487070134057
+    second: DodecaDoom_BossAdultGhost_38
+  - first:
+      213: -5612229531810552450
+    second: DodecaDoom_BossAdultGhost_39
+  - first:
+      213: -2656204580142665353
+    second: DodecaDoom_BossAdultGhost_40
+  - first:
+      213: -2428550443911595389
+    second: DodecaDoom_BossAdultGhost_41
+  - first:
+      213: -8457635847196253794
+    second: DodecaDoom_BossAdultGhost_42
+  - first:
+      213: 6301071823233085276
+    second: DodecaDoom_BossAdultGhost_43
+  - first:
+      213: 8212476349364133462
+    second: DodecaDoom_BossAdultGhost_44
+  - first:
+      213: -8374465597590147817
+    second: DodecaDoom_BossAdultGhost_45
+  - first:
+      213: 3253122800350519060
+    second: DodecaDoom_BossAdultGhost_46
+  - first:
+      213: -3647461215502498919
+    second: DodecaDoom_BossAdultGhost_47
+  - first:
+      213: -3263825062165305144
+    second: DodecaDoom_BossAdultGhost_48
+  - first:
+      213: 3646060510435779782
+    second: DodecaDoom_BossAdultGhost_49
+  - first:
+      213: -544576762207738840
+    second: DodecaDoom_BossAdultGhost_50
+  - first:
+      213: -3142953572348759547
+    second: DodecaDoom_BossAdultGhost_51
+  - first:
+      213: -3899443015795916907
+    second: DodecaDoom_BossAdultGhost_52
+  - first:
+      213: -8091186443779488704
+    second: DodecaDoom_BossAdultGhost_53
+  - first:
+      213: 5248832804944941912
+    second: DodecaDoom_BossAdultGhost_54
+  - first:
+      213: 2240872636693987792
+    second: DodecaDoom_BossAdultGhost_55
+  - first:
+      213: 6489823594649399176
+    second: DodecaDoom_BossAdultGhost_56
+  - first:
+      213: -1311955243344116257
+    second: DodecaDoom_BossAdultGhost_57
+  - first:
+      213: -1320929334464783854
+    second: DodecaDoom_BossAdultGhost_58
+  - first:
+      213: 8310890045908121874
+    second: DodecaDoom_BossAdultGhost_59
+  - first:
+      213: 326100795308508122
+    second: DodecaDoom_BossAdultGhost_60
+  - first:
+      213: 2806953761579022550
+    second: DodecaDoom_BossAdultGhost_61
+  - first:
+      213: -7259484483530296544
+    second: DodecaDoom_BossAdultGhost_62
+  - first:
+      213: -918484886115379115
+    second: DodecaDoom_BossAdultGhost_63
+  - first:
+      213: -279286898312519240
+    second: DodecaDoom_BossAdultGhost_64
+  - first:
+      213: -3681567684563309820
+    second: DodecaDoom_BossAdultGhost_65
+  - first:
+      213: -7299709269927886032
+    second: DodecaDoom_BossAdultGhost_66
+  - first:
+      213: 2922464291760571521
+    second: DodecaDoom_BossAdultGhost_67
+  - first:
+      213: 3310064815882560958
+    second: DodecaDoom_BossAdultGhost_68
+  - first:
+      213: 8132249596883280214
+    second: DodecaDoom_BossAdultGhost_69
+  - first:
+      213: -9050127835331962326
+    second: DodecaDoom_BossAdultGhost_70
+  - first:
+      213: 630399318684198494
+    second: DodecaDoom_BossAdultGhost_71
+  - first:
+      213: -9053077339114284675
+    second: DodecaDoom_BossAdultGhost_72
+  - first:
+      213: 8085052538514212638
+    second: DodecaDoom_BossAdultGhost_73
+  - first:
+      213: 2520907664192147206
+    second: DodecaDoom_BossAdultGhost_74
+  - first:
+      213: -5477065391666782392
+    second: DodecaDoom_BossAdultGhost_75
+  - first:
+      213: -1353594246130485045
+    second: DodecaDoom_BossAdultGhost_76
+  - first:
+      213: -4019959104686941447
+    second: DodecaDoom_BossAdultGhost_77
+  - first:
+      213: 3432638210506527012
+    second: DodecaDoom_BossAdultGhost_78
+  - first:
+      213: 8382823732710811024
+    second: DodecaDoom_BossAdultGhost_79
+  - first:
+      213: -1135473328619896343
+    second: DodecaDoom_BossAdultGhost_80
+  - first:
+      213: 7352501979366145814
+    second: DodecaDoom_BossAdultGhost_81
+  - first:
+      213: -7404168426229215812
+    second: DodecaDoom_BossAdultGhost_82
+  - first:
+      213: -532997085323168977
+    second: DodecaDoom_BossAdultGhost_83
+  - first:
+      213: 3387757159874915901
+    second: DodecaDoom_BossAdultGhost_84
+  - first:
+      213: -422646993243226769
+    second: DodecaDoom_BossAdultGhost_85
+  - first:
+      213: 6433608392412437574
+    second: DodecaDoom_BossAdultGhost_86
+  - first:
+      213: -8398449858559448225
+    second: DodecaDoom_BossAdultGhost_87
+  - first:
+      213: 180910405946792477
+    second: DodecaDoom_BossAdultGhost_88
+  - first:
+      213: 1187426899411582575
+    second: DodecaDoom_BossAdultGhost_89
+  - first:
+      213: 2310823077029516570
+    second: DodecaDoom_BossAdultGhost_90
+  - first:
+      213: -2435988366515892161
+    second: DodecaDoom_BossAdultGhost_91
+  - first:
+      213: 4492232228393887484
+    second: DodecaDoom_BossAdultGhost_92
+  - first:
+      213: 8415101356468795283
+    second: DodecaDoom_BossAdultGhost_93
+  - first:
+      213: -1240319688438991826
+    second: DodecaDoom_BossAdultGhost_94
+  - first:
+      213: 3506211681151797451
+    second: DodecaDoom_BossAdultGhost_95
+  - first:
+      213: 800520258407414048
+    second: DodecaDoom_BossAdultGhost_96
+  - first:
+      213: 5989432672337440422
+    second: DodecaDoom_BossAdultGhost_97
+  - first:
+      213: 5806071079514392226
+    second: DodecaDoom_BossAdultGhost_98
+  - first:
+      213: 2286301198450871527
+    second: DodecaDoom_BossAdultGhost_99
+  - first:
+      213: 1356295194642487227
+    second: DodecaDoom_BossAdultGhost_100
+  - first:
+      213: 7254678132018223001
+    second: DodecaDoom_BossAdultGhost_101
+  - first:
+      213: 3813911243583879759
+    second: DodecaDoom_BossAdultGhost_102
+  - first:
+      213: 2677250058749742313
+    second: DodecaDoom_BossAdultGhost_103
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 516
+        width: 13
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769b37823047f9420800000000000000
+      internalID: 2638955463574796647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 513
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7160852fe728a48b0800000000000000
+      internalID: -5167174140710877673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 513
+        width: 10
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2310f4532dd0b8b0800000000000000
+      internalID: -5138364031011122385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 515
+        width: 25
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3928125be9bf9e0800000000000000
+      internalID: -1586499942929493061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 516
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fcb3e7b391f1d90800000000000000
+      internalID: -7124948342165221534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 515
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd929836775916900800000000000000
+      internalID: 675985759085865439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 517
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b8b74d285844b30800000000000000
+      internalID: 4270685143611181948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 525
+        width: 14
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaf5b8e0d9b10ba0800000000000000
+      internalID: -6124409711338587422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 525
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c7cabd1bbab4950800000000000000
+      internalID: 6434425273011960892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 525
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170674bf9c521e020800000000000000
+      internalID: 2369216428408004721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 525
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8888a0fd28b2ffbb0800000000000000
+      internalID: -4900150028468057976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 484
+        width: 13
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bf2127f6d46d8f0800000000000000
+      internalID: -516139966236787882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 481
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980b28dee12b2ca10800000000000000
+      internalID: 1928299436371521673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 481
+        width: 10
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65f7ffc16cdc41e0800000000000000
+      internalID: -2212151004286683796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 483
+        width: 25
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2271289888f2ce8b0800000000000000
+      internalID: -5121666412758034654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 484
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8c7b6f3b463a5a0800000000000000
+      internalID: -6511249912146441989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 483
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f92bc64db3221940800000000000000
+      internalID: 5265310210193041906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 485
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fd892e024787600800000000000000
+      internalID: 466250246022291225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 493
+        width: 14
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7583645766a9ae0800000000000000
+      internalID: -1541807268545669150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 493
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c28c558658192fd0800000000000000
+      internalID: -2366333369322798394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_20
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 493
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea0983450e0e1510800000000000000
+      internalID: 1521669139868486373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_21
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 493
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23665e4c2f129d870800000000000000
+      internalID: 8708028681066735154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 452
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c77329cdeeba300800000000000000
+      internalID: 264567634244631610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 451
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fbae2ffab7675a0800000000000000
+      internalID: -6523891014574620925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 451
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3725d8a5d73b19680800000000000000
+      internalID: -8750015250032668045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 451
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69680a862868eff40800000000000000
+      internalID: 5764192467740034710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 452
+        width: 11
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e414ddca4c812ceb0800000000000000
+      internalID: -4701167828028538546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 451
+        width: 12
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2505d27e91a8dc0800000000000000
+      internalID: -3636065268459875587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 451
+        width: 13
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642fb86261d55e470800000000000000
+      internalID: 8423241027783750214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_29
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 458
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b338bced19f7eea0800000000000000
+      internalID: -5843428084569066569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 458
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b525bea114ac960800000000000000
+      internalID: 7622976903150984016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_31
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 458
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333380a928ecc4e90800000000000000
+      internalID: -7040025057161628877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_32
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 458
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e12ffa879aa2740800000000000000
+      internalID: 5128097461527780929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 420
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4337f3b15adb36df0800000000000000
+      internalID: -188098242595032268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_34
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 419
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d72c2c4ab670d90800000000000000
+      internalID: -7131613129531556539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 419
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3dcd0658490f2a0800000000000000
+      internalID: -6705696544578022438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 419
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3360625972e690ff0800000000000000
+      internalID: -69403202962454989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_37
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 420
+        width: 11
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad494618da29fc020800000000000000
+      internalID: 2364269603290649818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 419
+        width: 12
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fca73dfc65b2140800000000000000
+      internalID: 4695942487070134057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_39
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 419
+        width: 13
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75a976c9fa5d12b0800000000000000
+      internalID: -5612229531810552450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 423
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771b4dde104432bd0800000000000000
+      internalID: -2656204580142665353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 421
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a388ffc3e0c4ed0800000000000000
+      internalID: -2428550443911595389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 424
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91e148e10170aa80800000000000000
+      internalID: -8457635847196253794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_43
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 424
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe7005077e17750800000000000000
+      internalID: 6301071823233085276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 389
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e552a6ab398f170800000000000000
+      internalID: 8212476349364133462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 389
+        width: 27
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71de8e7a8ebe7cb80800000000000000
+      internalID: -8374465597590147817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 392
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fdd9d73f9652d20800000000000000
+      internalID: 3253122800350519060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 391
+        width: 30
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99385fd795d916dc0800000000000000
+      internalID: -3647461215502498919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8ae90066094b2d0800000000000000
+      internalID: -3263825062165305144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4aa1277b8699230800000000000000
+      internalID: 3646060510435779782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824ecafe1564178f0800000000000000
+      internalID: -544576762207738840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_51
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 390
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5027b96c06cf164d0800000000000000
+      internalID: -3142953572348759547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 357
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f3b9dbc3562e9c0800000000000000
+      internalID: -3899443015795916907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 357
+        width: 27
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044411f5cc456bf80800000000000000
+      internalID: -8091186443779488704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 360
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853192860a997d840800000000000000
+      internalID: 5248832804944941912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 359
+        width: 30
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1c9095acd291f10800000000000000
+      internalID: 2240872636693987792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_56
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 352
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fa60ebc2c701a50800000000000000
+      internalID: 6489823594649399176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_57
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 352
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5434f38affacde0800000000000000
+      internalID: -1311955243344116257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 352
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a55d5d4cd1bade0800000000000000
+      internalID: -1320929334464783854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_59
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 358
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219fea9b676365370800000000000000
+      internalID: 8310890045908121874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 325
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3065112fa868400800000000000000
+      internalID: 326100795308508122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_61
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 326
+        width: 29
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d83dd3039d44f620800000000000000
+      internalID: 2806953761579022550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 327
+        width: 31
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02377ba1351214b90800000000000000
+      internalID: -7259484483530296544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 320
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5581787ccd2e043f0800000000000000
+      internalID: -918484886115379115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_64
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 320
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b169a3bb06cf1cf0800000000000000
+      internalID: -279286898312519240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_65
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 320
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40beb0952b178ecc0800000000000000
+      internalID: -3681567684563309820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_66
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 320
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338252381932ba90800000000000000
+      internalID: -7299709269927886032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_67
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 323
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184072b1acdae8820800000000000000
+      internalID: 2922464291760571521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_68
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 293
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5e23e9966bfed20800000000000000
+      internalID: 3310064815882560958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_69
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 294
+        width: 29
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651aa0ffbed8bd070800000000000000
+      internalID: 8132249596883280214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_70
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 295
+        width: 31
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ad923feac776280800000000000000
+      internalID: -9050127835331962326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 288
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56e1d027d0afb800800000000000000
+      internalID: 630399318684198494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_72
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 288
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7954f510220d5280800000000000000
+      internalID: -9053077339114284675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_73
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 288
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1782848270e33070800000000000000
+      internalID: 8085052538514212638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_74
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 288
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f8bbb0a201cf220800000000000000
+      internalID: 2520907664192147206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_75
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 291
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f9d168b0e8df3b0800000000000000
+      internalID: -5477065391666782392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_76
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 263
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8316d6431173de0800000000000000
+      internalID: -1353594246130485045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_77
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 262
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa99813e7c3638c0800000000000000
+      internalID: -4019959104686941447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_78
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 263
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4219cabf34e23af20800000000000000
+      internalID: 3432638210506527012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_79
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 264
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09521f255c5c55470800000000000000
+      internalID: 8382823732710811024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 231
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e14eab060dfd30f0800000000000000
+      internalID: -1135473328619896343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_81
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 230
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fb9725895590660800000000000000
+      internalID: 7352501979366145814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_82
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 231
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdc1799b0c1f3990800000000000000
+      internalID: -7404168426229215812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_83
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 232
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f237efe89f96a98f0800000000000000
+      internalID: -532997085323168977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 198
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e61a3103bb30f20800000000000000
+      internalID: 3387757159874915901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_85
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 197
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6db9568cc4722af0800000000000000
+      internalID: -422646993243226769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_86
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 198
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c17b50fb4c84950800000000000000
+      internalID: 6433608392412437574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_87
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 199
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b62acb956b27b80800000000000000
+      internalID: -8398449858559448225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 166
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a51a24e09b28200800000000000000
+      internalID: 180910405946792477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_89
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 165
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ebb2849769a7010800000000000000
+      internalID: 1187426899411582575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_90
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 166
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a159e156851b11020800000000000000
+      internalID: 2310823077029516570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_91
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 167
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3016d0bc71a13ed0800000000000000
+      internalID: -2435988366515892161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 137
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6aafd296d975e30800000000000000
+      internalID: 4492232228393887484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_93
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 137
+        width: 22
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397fa3d391278c470800000000000000
+      internalID: 8415101356468795283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_94
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 105
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24bbaa90df79cee0800000000000000
+      internalID: -1240319688438991826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_95
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 105
+        width: 22
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8c06282f098a030800000000000000
+      internalID: 3506211681151797451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_96
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 69
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029b0e50fe40c1b00800000000000000
+      internalID: 800520258407414048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_97
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 74
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeaac8384dbe1350800000000000000
+      internalID: 5989432672337440422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_98
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 37
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6cf1b82ee439050800000000000000
+      internalID: 5806071079514392226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_99
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 42
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecc63f93d29abf10800000000000000
+      internalID: 2286301198450871527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb71c372b4782d210800000000000000
+      internalID: 1356295194642487227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_101
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 7
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9979dbaf25bcda460800000000000000
+      internalID: 7254678132018223001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_102
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 14
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a7faea11cbde430800000000000000
+      internalID: 3813911243583879759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodecaDoom_BossAdultGhost_103
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 15
+        width: 2
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec0ca66eb0872520800000000000000
+      internalID: 2677250058749742313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 56b69cb65ecda4deda3878a6a903663b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

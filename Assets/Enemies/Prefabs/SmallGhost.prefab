@@ -390,7 +390,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   savingGracePrefab: {fileID: 1965131667102517351, guid: 9b5ea444510de4894a21f56ceb102eb6,
     type: 3}
-  dropRate: 0.2
+  dropRate: 0.1
 --- !u!1 &3701614521626579841
 GameObject:
   m_ObjectHideFlags: 0

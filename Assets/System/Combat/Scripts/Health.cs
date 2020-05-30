@@ -47,6 +47,11 @@ public class Health : MonoBehaviour
             uiManager.UpdateHealthBar(health, maxHealth);
             GetComponent<PlayerSound>().PlaySoundEffect(PlayerSound.EffectType.HURT);
         }
+        if (GetComponent<BossHealthBar>())
+        {
+            GetComponent<BossHealthBar>().UpdateHealthBar(health, maxHealth);
+        }
+
         if (health <= 0)
         {
             if (anim)

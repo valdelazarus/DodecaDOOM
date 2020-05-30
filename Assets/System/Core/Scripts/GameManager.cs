@@ -31,6 +31,7 @@ public class GameManager : MonoBehaviour
         uiManager = FindObjectOfType<UIManager>();
         levelManager = FindObjectOfType<LevelManager>();
         hazard = FindObjectOfType<EnvironmentalHazard>();
+
         player = GameObject.FindWithTag("Player");
 
         if (PlayerPrefs.HasKey("Score"))
@@ -80,7 +81,7 @@ public class GameManager : MonoBehaviour
                 floor.material = floorMats[1];
                 foreach(MeshRenderer w in walls)
                 {
-                    if(w)
+                    if (w)
                         w.material = wallMats[1];
                 }
                 break;
@@ -90,7 +91,7 @@ public class GameManager : MonoBehaviour
                 floor.material = floorMats[2];
                 foreach (MeshRenderer w in walls)
                 {
-                    if(w)
+                    if (w)
                         w.material = wallMats[2];
                 }
                 break;
@@ -101,7 +102,7 @@ public class GameManager : MonoBehaviour
                 floor.material = floorMats[3];
                 foreach (MeshRenderer w in walls)
                 {
-                    if(w)
+                    if (w)
                         w.material = wallMats[3];
                 }
                 break;
@@ -117,10 +118,16 @@ public class GameManager : MonoBehaviour
 
     void CheckForWin()
     {
-        //to be replaced later with proper win condition
         if (clockManager.currentClockTime > 12)
         {
-            levelManager.LoadScene("Game Win");
+            if (FindObjectsOfType<BossHealthBar>().Length == 0)
+            {
+                levelManager.LoadScene("Game Win");
+            }
+            else
+            {
+                GameOver();
+            }
         }
     }
 
@@ -135,6 +142,10 @@ public class GameManager : MonoBehaviour
         if (CrossPlatformInputManager.GetButtonDown("Cancel")){
             paused = !paused;
             uiManager.SetActivePauseMenu(paused);
+            if (!paused)
+            {
+                uiManager.HideRules();
+            }
         }
         Cursor.visible = paused;
 
