@@ -6,7 +6,8 @@ public class EnvironmentalHazard : MonoBehaviour
 {
     public Wall[] walls;
     public GameObject explosionFX;
-    public AudioSource audioSource;
+
+    AudioSource audioSource;
 
     void Start()
     {

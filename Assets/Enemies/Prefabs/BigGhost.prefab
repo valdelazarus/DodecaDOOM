@@ -146,10 +146,10 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.5
-  m_Speed: 1
+  m_Speed: 1.5
   m_Acceleration: 3
   avoidancePriority: 50
-  m_AngularSpeed: 120
+  m_AngularSpeed: 180
   m_StoppingDistance: 1.1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
@@ -317,14 +317,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreValue: 300
+  attackAmount: 1
   attackRange: 1.1
   attackRate: 2
+  attackRange2: 0
+  attackRate2: 0
   meleeHitColliders:
   - {fileID: 3591380045368141827}
   - {fileID: 6361770909418577825}
   - {fileID: 8366451591431776196}
   - {fileID: 8019009750121905946}
-  hitColliderParentObj: {fileID: 7267575951532394235}
+  childGroupObjs:
+  - {fileID: 7267575951532394235}
   projectile: {fileID: 0}
   projectileSpawnPos: []
 --- !u!114 &4649231870615477078
@@ -382,7 +386,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3591380045368141827}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.3, z: -0.8}
+  m_LocalPosition: {x: 0, y: 0.4, z: -0.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7459702860876494255}
@@ -443,7 +447,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6361770909418577825}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.3, z: 0.8}
+  m_LocalPosition: {x: 0, y: 0.4, z: 0.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7459702860876494255}
@@ -538,7 +542,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8019009750121905946}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.8000001, y: 0.3, z: 0}
+  m_LocalPosition: {x: 0.8000001, y: 0.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7459702860876494255}
@@ -599,7 +603,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8366451591431776196}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.8000001, y: 0.3, z: 0}
+  m_LocalPosition: {x: -0.8000001, y: 0.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7459702860876494255}

@@ -6,10 +6,13 @@ using UnityEngine.AI;
 public class Enemy : MonoBehaviour
 {
     public int scoreValue;
+    public int attackAmount;
     public float attackRange;
     public float attackRate;
+    public float attackRange2;
+    public float attackRate2;
     public GameObject[] meleeHitColliders;
-    public GameObject hitColliderParentObj;
+    public GameObject[] childGroupObjs;
     public GameObject projectile;
     public Transform[] projectileSpawnPos;
 
@@ -25,6 +28,7 @@ public class Enemy : MonoBehaviour
     Animator anim;
 
     bool canAttack = true;
+    bool canAttack2 = true;
 
     void Start()
     {
@@ -43,8 +47,19 @@ public class Enemy : MonoBehaviour
     {
         sprite.transform.rotation = Quaternion.Euler(spriteRotationFacingCam, 0f, 0f);
 
-        EnsureAllCollidersAtCorrectPositions();
-        DetectAttack();
+        EnsureAllChildObjsAtCorrectPositions();
+
+        switch (attackAmount)
+        {
+            case 1:
+                DetectAttack();
+                break;
+            case 2:
+                DetectRangedAndMelee();
+                break;
+            case 3:
+                break;
+        }
     }
 
     void DetectAttack()
@@ -57,9 +72,27 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    void EnsureAllCollidersAtCorrectPositions()
+    void DetectRangedAndMelee()
     {
-        hitColliderParentObj.transform.localRotation = Quaternion.Euler(0 - transform.rotation.eulerAngles.x, 0 - transform.rotation.eulerAngles.y, 0 - transform.rotation.eulerAngles.z);
+        if (Vector3.Distance(transform.position, player.position) <= attackRange2 && canAttack2)
+        {
+            canAttack2 = false;
+            anim.SetTrigger("attack2");
+            StartCoroutine(ResetAttack2());
+        } else if (Vector3.Distance(transform.position, player.position) <= attackRange && canAttack)
+        {
+            canAttack = false;
+            anim.SetTrigger("attack");
+            StartCoroutine(ResetAttack());
+        }
+    }
+
+    void EnsureAllChildObjsAtCorrectPositions()
+    {
+        foreach(GameObject g in childGroupObjs)
+        {
+            g.transform.localRotation = Quaternion.Euler(0 - transform.rotation.eulerAngles.x, 0 - transform.rotation.eulerAngles.y, 0 - transform.rotation.eulerAngles.z);
+        }
     }
 
     IEnumerator ResetAttack()
@@ -67,11 +100,18 @@ public class Enemy : MonoBehaviour
         yield return new WaitForSeconds(attackRate);
         canAttack = true;
     }
+    IEnumerator ResetAttack2()
+    {
+        yield return new WaitForSeconds(attackRate2);
+        canAttack2 = true;
+    }
 
     void OnDrawGizmos()
     {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, attackRange);
+        Gizmos.color = Color.magenta;
+        Gizmos.DrawWireSphere(transform.position, attackRange2);
     }
 
     public void AddScore()

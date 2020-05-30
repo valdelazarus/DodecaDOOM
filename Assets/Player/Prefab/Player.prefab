@@ -736,7 +736,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  meleeAttackRate: 1
+  meleeAttackRate: 0.8
   rangedAttackRate: 1.5
   projectile: {fileID: 6709526919514264964, guid: 2e107a6e4345e4751829478997aa4654,
     type: 3}

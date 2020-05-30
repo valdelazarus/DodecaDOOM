@@ -183,7 +183,7 @@ NavMeshAgent:
   m_Speed: 2
   m_Acceleration: 8
   avoidancePriority: 50
-  m_AngularSpeed: 120
+  m_AngularSpeed: 180
   m_StoppingDistance: 1.1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
@@ -351,10 +351,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreValue: 100
+  attackAmount: 1
   attackRange: 2
   attackRate: 1.5
+  attackRange2: 0
+  attackRate2: 0
   meleeHitColliders: []
-  hitColliderParentObj: {fileID: 2075437806783718450}
+  childGroupObjs:
+  - {fileID: 2075437806783718450}
   projectile: {fileID: 1863156152518710465, guid: bff5e0bfece1f4a3cb415f543638f7f0,
     type: 3}
   projectileSpawnPos:

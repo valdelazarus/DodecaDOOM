@@ -230,6 +230,38 @@ MonoBehaviour:
     - {fileID: 0}
     - {fileID: 0}
     shadowObj: {fileID: 0}
+  - wallBlocks:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    shadowObj: {fileID: 0}
+  - wallBlocks:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    shadowObj: {fileID: 0}
+  - wallBlocks:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    shadowObj: {fileID: 0}
   explosionFX: {fileID: 558750244040702542, guid: 387720129e67b4d5fb858a1a8ee5467b,
     type: 3}
-  audioSource: {fileID: 0}

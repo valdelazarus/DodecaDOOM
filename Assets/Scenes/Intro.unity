@@ -1166,8 +1166,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "The challenge of time is about to begin. \nHero, be prepared to decide
-    your fate!"
+  m_Text: "The challenge of time is about to begin. \nHero, please be prepared to
+    face your fate."
 --- !u!222 &1184984906
 CanvasRenderer:
   m_ObjectHideFlags: 0
