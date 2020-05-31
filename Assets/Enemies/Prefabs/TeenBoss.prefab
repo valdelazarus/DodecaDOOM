@@ -59,7 +59,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2399657945788071059}
   m_LocalRotation: {x: 0.5, y: 0, z: 0, w: 0.8660254}
-  m_LocalPosition: {x: 0, y: 0.1, z: -0.385}
+  m_LocalPosition: {x: 0, y: 0.1, z: -0.54}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
   m_Children:
   - {fileID: 1777307286121619602}
@@ -354,19 +354,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreValue: 1500
-  attackAmount: 2
-  attackRange: 2
-  attackRate: 3
-  attackRange2: 1.1
-  attackRate2: 2
-  meleeHitColliders:
-  - {fileID: 5411684806275071457}
-  - {fileID: 4128535366649594540}
-  - {fileID: 7451902239193944474}
-  - {fileID: 4406667830877203695}
+  abilityAmount: 2
   childGroupObjs:
   - {fileID: 2075437806783718450}
   - {fileID: 6085943211944664433}
+  attackRange: 2
+  attackRate: 3
   projectile: {fileID: 1863156152518710465, guid: 0e2c0b97c641341c1b0ca2ef49031c45,
     type: 3}
   projectileSpawnPos:
@@ -374,6 +367,15 @@ MonoBehaviour:
   - {fileID: 8611909621220189855}
   - {fileID: 9120812921372459622}
   - {fileID: 1115613679377468337}
+  attackRange2: 1.1
+  attackRate2: 2
+  meleeHitColliders:
+  - {fileID: 5411684806275071457}
+  - {fileID: 4128535366649594540}
+  - {fileID: 7451902239193944474}
+  - {fileID: 4406667830877203695}
+  summonSignalPrefab: {fileID: 0}
+  summonRepeatRate: 0
 --- !u!114 &4649231870615477078
 MonoBehaviour:
   m_ObjectHideFlags: 0

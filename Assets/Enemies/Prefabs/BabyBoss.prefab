@@ -59,7 +59,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2399657945788071059}
   m_LocalRotation: {x: 0.5, y: 0, z: 0, w: 0.8660254}
-  m_LocalPosition: {x: 0, y: 0.1, z: -0.25}
+  m_LocalPosition: {x: 0, y: 0.1, z: -0.351}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
   m_Children:
   - {fileID: 1777307286121619602}
@@ -353,14 +353,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreValue: 1000
-  attackAmount: 1
-  attackRange: 2
-  attackRate: 2
-  attackRange2: 0
-  attackRate2: 0
-  meleeHitColliders: []
+  abilityAmount: 1
   childGroupObjs:
   - {fileID: 2075437806783718450}
+  attackRange: 2
+  attackRate: 2
   projectile: {fileID: 1863156152518710465, guid: d619be29ecf3a4543943bbed6574f645,
     type: 3}
   projectileSpawnPos:
@@ -368,6 +365,11 @@ MonoBehaviour:
   - {fileID: 8611909621220189855}
   - {fileID: 9120812921372459622}
   - {fileID: 1115613679377468337}
+  attackRange2: 0
+  attackRate2: 0
+  meleeHitColliders: []
+  summonSignalPrefab: {fileID: 0}
+  summonRepeatRate: 0
 --- !u!114 &4649231870615477078
 MonoBehaviour:
   m_ObjectHideFlags: 0

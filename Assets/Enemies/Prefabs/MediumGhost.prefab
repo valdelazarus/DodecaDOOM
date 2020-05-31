@@ -473,9 +473,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreValue: 200
-  attackAmount: 1
+  abilityAmount: 1
+  childGroupObjs:
+  - {fileID: 1747861917154712383}
   attackRange: 1.1
   attackRate: 1.5
+  projectile: {fileID: 0}
+  projectileSpawnPos: []
   attackRange2: 0
   attackRate2: 0
   meleeHitColliders:
@@ -483,10 +487,8 @@ MonoBehaviour:
   - {fileID: 68953460367122825}
   - {fileID: 799913169485315399}
   - {fileID: 7806542368238315482}
-  childGroupObjs:
-  - {fileID: 1747861917154712383}
-  projectile: {fileID: 0}
-  projectileSpawnPos: []
+  summonSignalPrefab: {fileID: 0}
+  summonRepeatRate: 0
 --- !u!114 &4649231870615477078
 MonoBehaviour:
   m_ObjectHideFlags: 0

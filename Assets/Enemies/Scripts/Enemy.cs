@@ -6,15 +6,25 @@ using UnityEngine.AI;
 public class Enemy : MonoBehaviour
 {
     public int scoreValue;
-    public int attackAmount;
-    public float attackRange;
-    public float attackRate;
-    public float attackRange2;
-    public float attackRate2;
-    public GameObject[] meleeHitColliders;
+    public int abilityAmount;
     public GameObject[] childGroupObjs;
+    [Header("For Ranged")]
     public GameObject projectile;
     public Transform[] projectileSpawnPos;
+    [Header("For Melee")]
+    public GameObject[] meleeHitColliders;
+
+    [Header("Ability 1")]
+    public float attackRange;
+    public float attackRate;
+    
+    [Header("Ability 2")]
+    public float attackRange2;
+    public float attackRate2;
+
+    [Header("Ability 3 - Summon")]
+    public GameObject summonSignalPrefab;
+    public float summonRepeatRate;
 
     const float spriteRotationFacingCam = 60f;
 
@@ -29,6 +39,8 @@ public class Enemy : MonoBehaviour
 
     bool canAttack = true;
     bool canAttack2 = true;
+    bool summoned = false;
+    bool isSummoning = false;
 
     void Start()
     {
@@ -40,6 +52,11 @@ public class Enemy : MonoBehaviour
 
         enemySound = GetComponent<EnemySound>();
         enemySound.PlaySoundEffect(EnemySound.EffectType.APPEAR);
+
+        if (abilityAmount == 3)
+        {
+            InvokeRepeating("StartSummoning", summonRepeatRate, summonRepeatRate);
+        }
     }
 
     
@@ -49,15 +66,14 @@ public class Enemy : MonoBehaviour
 
         EnsureAllChildObjsAtCorrectPositions();
 
-        switch (attackAmount)
+        switch (abilityAmount)
         {
             case 1:
                 DetectAttack();
                 break;
             case 2:
-                DetectRangedAndMelee();
-                break;
             case 3:
+                DetectRangedAndMelee();
                 break;
         }
     }
@@ -74,6 +90,7 @@ public class Enemy : MonoBehaviour
 
     void DetectRangedAndMelee()
     {
+        if (isSummoning) return;
         if (Vector3.Distance(transform.position, player.position) <= attackRange2 && canAttack2)
         {
             canAttack2 = false;
@@ -200,5 +217,22 @@ public class Enemy : MonoBehaviour
                 break;
         }
         spawned?.GetComponent<EnemyProjectile>().UpdateAnimation(anim.GetFloat("lastMoveX"), anim.GetFloat("lastMoveY"));
+    }
+
+    void StartSummoning()
+    {
+        isSummoning = true;
+        summoned = false;
+        anim.SetTrigger("attack3");        
+    }
+    public void Summon()
+    {
+        if (!summoned)
+        {
+            summoned = true;
+            Instantiate(summonSignalPrefab, transform.position, Quaternion.identity);
+            isSummoning = false;
+        }
+        
     }
 }

@@ -16,6 +16,8 @@ public class UIManager : MonoBehaviour
     public GameObject bossInfoPanel;
     public Text bossInfoText;
     public float bossInfoPanelDisplayDuration;
+    public GameObject challengeCountdownPanel;
+    public Text challengeCountdownText;
 
     public void UpdateClockText(string timeText)
     {
@@ -86,11 +88,44 @@ public class UIManager : MonoBehaviour
         bossInfoPanel.SetActive(true);
         bossInfoText.text = "Boss - " + bossForm + " Form appeared!";
         Invoke("HideBossInfoPanel", bossInfoPanelDisplayDuration);
+        if (bossForm == "Final")
+        {
+            Invoke("ShowChallengeCountdownPanel", bossInfoPanelDisplayDuration);
+        }
     }
 
     void HideBossInfoPanel()
     {
         bossInfoPanel.SetActive(false);
         bossInfoText.text = "Boss - ? Form appeared!";
+    }
+    void ShowChallengeCountdownPanel()
+    {
+        challengeCountdownPanel.SetActive(true);
+    }
+    public void UpdateChallengeCountdownText(float realTimeLeft)
+    {
+        int min = (int)(realTimeLeft / 60f);
+        int sec = (int)(realTimeLeft % 60f);
+
+        string minText, secText;
+        if (min < 10)
+        {
+            minText = "0" + min;
+        }
+        else
+        {
+            minText = min.ToString();
+        }
+        if (sec < 10)
+        {
+            secText = "0" + sec;
+        }
+        else
+        {
+            secText = sec.ToString();
+        }
+
+        challengeCountdownText.text = minText + ":" + secText;
     }
 }

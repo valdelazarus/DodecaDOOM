@@ -210,6 +210,7 @@ MonoBehaviour:
   - {fileID: 2399657946524309001, guid: 02c98a1cd00e94e6b8e6812bc1f494bb, type: 3}
   - {fileID: 2399657946524309001, guid: de3cef1d263ab45a889fb4924e6a02ff, type: 3}
   - {fileID: 2399657946524309001, guid: 33cea4353bb424cc0a9f9e36e1b39b51, type: 3}
+  - {fileID: 2399657946524309001, guid: 5b09c24d0849e42dc8ea76b057ecbb66, type: 3}
   spawnPositions:
   - {fileID: 4285215626305428749}
   - {fileID: 4285215625283014860}

@@ -88,7 +88,7 @@ public class EnemySpawner : MonoBehaviour
                 {
                     bossSpawned = true;
                     rand = Random.Range(0, bossSpawnPositions.Length);
-                    Instantiate(bossPrefabs[2], bossSpawnPositions[rand].position, Quaternion.identity);
+                    Instantiate(bossPrefabs[3], bossSpawnPositions[rand].position, Quaternion.identity);
                     uiManager.DisplayBossInfo("Final");
                 }
                 break;

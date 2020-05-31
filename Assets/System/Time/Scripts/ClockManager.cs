@@ -12,6 +12,8 @@ public class ClockManager : MonoBehaviour
 
     AudioSource audioSource;
 
+    float realTimeLeft;
+
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
@@ -21,6 +23,18 @@ public class ClockManager : MonoBehaviour
         uiManager.UpdateClockText(currentClockTime.ToString());
 
         InvokeRepeating("IncrementClockTime", incrementClockRate, incrementClockRate);
+
+        realTimeLeft = incrementClockRate;
+    }
+
+    void Update()
+    {
+        if (currentClockTime == 12)
+        {
+            realTimeLeft -= Time.deltaTime;
+            if (realTimeLeft < 0) realTimeLeft = 0;
+            uiManager.UpdateChallengeCountdownText(realTimeLeft);
+        }
     }
 
     void IncrementClockTime()

@@ -351,14 +351,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreValue: 100
-  attackAmount: 1
-  attackRange: 2
-  attackRate: 1.5
-  attackRange2: 0
-  attackRate2: 0
-  meleeHitColliders: []
+  abilityAmount: 1
   childGroupObjs:
   - {fileID: 2075437806783718450}
+  attackRange: 2
+  attackRate: 1.5
   projectile: {fileID: 1863156152518710465, guid: bff5e0bfece1f4a3cb415f543638f7f0,
     type: 3}
   projectileSpawnPos:
@@ -366,6 +363,11 @@ MonoBehaviour:
   - {fileID: 8611909621220189855}
   - {fileID: 9120812921372459622}
   - {fileID: 1115613679377468337}
+  attackRange2: 0
+  attackRate2: 0
+  meleeHitColliders: []
+  summonSignalPrefab: {fileID: 0}
+  summonRepeatRate: 0
 --- !u!114 &4649231870615477078
 MonoBehaviour:
   m_ObjectHideFlags: 0
