@@ -199,7 +199,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05fa63e1bd33b4773942e33a7db38ecf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minDamage: 5
+  minDamage: 10
   maxDamage: 20
   criticalChance: 0.4
   criticalMultiplier: 1.5
@@ -372,7 +372,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05fa63e1bd33b4773942e33a7db38ecf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minDamage: 5
+  minDamage: 10
   maxDamage: 20
   criticalChance: 0.4
   criticalMultiplier: 1.5
@@ -464,7 +464,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05fa63e1bd33b4773942e33a7db38ecf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minDamage: 5
+  minDamage: 10
   maxDamage: 20
   criticalChance: 0.4
   criticalMultiplier: 1.5
@@ -526,7 +526,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05fa63e1bd33b4773942e33a7db38ecf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minDamage: 5
+  minDamage: 10
   maxDamage: 20
   criticalChance: 0.4
   criticalMultiplier: 1.5
@@ -764,6 +764,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 300
   isPlayer: 1
+  isDead: 0
 --- !u!114 &3457470137152096705
 MonoBehaviour:
   m_ObjectHideFlags: 0

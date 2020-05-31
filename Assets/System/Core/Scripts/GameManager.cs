@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
     public int minWallsToDestroy, maxWallsToDestroy;
     public int gameHoursToDestroyWalls;
     public float hazardInitialDelay;
+    public float revivingDuration;
 
     ClockManager clockManager;
     UIManager uiManager;
@@ -247,12 +248,13 @@ public class GameManager : MonoBehaviour
     {
         player.GetComponent<PlayerSound>().PlaySoundEffect(PlayerSound.EffectType.REVIVED);
         uiManager.ShowRevivingIndicator();
-        Invoke("RevivePlayerAtPreviousHour", 0.5f);
+        Invoke("RevivePlayerAtPreviousHour", revivingDuration);
     }
 
     void RevivePlayerAtPreviousHour()
     {
         uiManager.HideRevivingIndicator();
+        uiManager.HideChallengeCountdownPanel();
 
         GameObject[] enemies = GameObject.FindGameObjectsWithTag("Enemy");
         foreach (GameObject e in enemies)

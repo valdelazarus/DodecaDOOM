@@ -235,4 +235,8 @@ public class Enemy : MonoBehaviour
         }
         
     }
+    public void ResetSummon()
+    {
+        isSummoning = false;
+    }
 }

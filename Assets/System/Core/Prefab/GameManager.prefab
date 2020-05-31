@@ -263,6 +263,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   minWallsToDestroy: 1
-  maxWallsToDestroy: 3
+  maxWallsToDestroy: 2
   gameHoursToDestroyWalls: 3
   hazardInitialDelay: 1
+  revivingDuration: 1

@@ -58,5 +58,6 @@ public class ClockManager : MonoBehaviour
     public void ResetCountdown()
     {
         realTimeLeft = incrementClockRate;
+        uiManager.UpdateChallengeCountdownText(realTimeLeft);
     }
 }

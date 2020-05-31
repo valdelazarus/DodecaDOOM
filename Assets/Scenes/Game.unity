@@ -37105,26 +37105,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3457470135578453841, guid: a0d1fd1f5fa724e4da116da96989bd28,
-        type: 3}
-      propertyPath: minDamage
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 3457470136004290570, guid: a0d1fd1f5fa724e4da116da96989bd28,
-        type: 3}
-      propertyPath: minDamage
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 3457470136648480213, guid: a0d1fd1f5fa724e4da116da96989bd28,
-        type: 3}
-      propertyPath: minDamage
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 3457470137099252768, guid: a0d1fd1f5fa724e4da116da96989bd28,
-        type: 3}
-      propertyPath: minDamage
-      value: 10
-      objectReference: {fileID: 0}
     - target: {fileID: 3457470137152096712, guid: a0d1fd1f5fa724e4da116da96989bd28,
         type: 3}
       propertyPath: m_Name

@@ -107,6 +107,10 @@ public class UIManager : MonoBehaviour
     {
         challengeCountdownPanel.SetActive(true);
     }
+    public void HideChallengeCountdownPanel()
+    {
+        challengeCountdownPanel.SetActive(false);
+    }
     public void UpdateChallengeCountdownText(float realTimeLeft)
     {
         int min = (int)(realTimeLeft / 60f);
