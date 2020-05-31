@@ -16,6 +16,7 @@ public class PlayerController : MonoBehaviour
     Animator myAnim;
     PlayerSound playerSound;
     UIManager uiManager;
+    Health health;
 
     bool canMelee = true, canRanged = true;
 
@@ -24,12 +25,17 @@ public class PlayerController : MonoBehaviour
         myRB = GetComponent<Rigidbody>();
         myAnim = GetComponent<Animator>();
         playerSound = GetComponent<PlayerSound>();
+        health = GetComponent<Health>();
         uiManager = FindObjectOfType<UIManager>();
     }
 
     
     void Update()
     {
+        if (health.isDead)
+        {
+            return;
+        }
         ProcessMovement();
         ProcessAbility();
     }
@@ -170,7 +176,9 @@ public class PlayerController : MonoBehaviour
 
     public void OnDead()
     {
+        health.isDead = true;
         GetComponent<Collider>().enabled = false;
+        myAnim.ResetTrigger("dead");
         FindObjectOfType<GameManager>().CheckToRevive();
     }
 }

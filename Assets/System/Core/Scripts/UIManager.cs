@@ -74,6 +74,10 @@ public class UIManager : MonoBehaviour
     {
         revivingIndicator.SetActive(true);
     }
+    public void HideRevivingIndicator()
+    {
+        revivingIndicator.SetActive(false);
+    }
 
     public void ShowRules()
     {

@@ -54,4 +54,9 @@ public class ClockManager : MonoBehaviour
         currentClockTime = clockTime;
         uiManager.UpdateClockText(currentClockTime.ToString());
     }
+
+    public void ResetCountdown()
+    {
+        realTimeLeft = incrementClockRate;
+    }
 }

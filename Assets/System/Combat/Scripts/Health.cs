@@ -6,11 +6,12 @@ public class Health : MonoBehaviour
 {
     public float maxHealth;
     public bool isPlayer;
+    public bool isDead;
 
     float health;
 
     UIManager uiManager;
-    Animator anim; 
+    Animator anim;
 
     void Start()
     {
@@ -23,7 +24,6 @@ public class Health : MonoBehaviour
         
         anim = GetComponent<Animator>();
     }
-
 
     public void AddHealth(float amount)
     {
@@ -41,6 +41,8 @@ public class Health : MonoBehaviour
 
     public void DeductHealth(float amount)
     {
+        if (isDead) return;
+
         health -= amount;
         if (isPlayer)
         {
@@ -52,17 +54,8 @@ public class Health : MonoBehaviour
             GetComponent<BossHealthBar>().UpdateHealthBar(health, maxHealth);
         }
 
-        if (health <= 0)
+        if (health <= 0 && !isDead)
         {
-            if (anim)
-            {
-                anim.SetTrigger("dead");
-            }
-            else
-            {
-                Destroy(gameObject);
-            }
-
             if (!isPlayer)
             {
                 GetComponent<EnemySound>().PlaySoundEffect(EnemySound.EffectType.DISAPPEAR);
@@ -73,6 +66,14 @@ public class Health : MonoBehaviour
             {
                 GetComponent<PlayerController>().enabled = false;
             }
+            if (anim)
+            {
+                anim.SetTrigger("dead");
+            }
+            else
+            {
+                Destroy(gameObject);
+            }  
         }
         else
         {
@@ -80,6 +81,15 @@ public class Health : MonoBehaviour
             {
                 anim.SetTrigger("hit");
             }
+        }
+    }
+    public void ResetHealth()
+    {
+        health = maxHealth;
+        isDead = false;
+        if (isPlayer)
+        {
+            uiManager.UpdateHealthBar(health, maxHealth);
         }
     }
 }

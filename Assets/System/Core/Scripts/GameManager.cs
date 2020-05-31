@@ -20,10 +20,11 @@ public class GameManager : MonoBehaviour
 
     int currentScore;
     int savingGraceCount;
-    int currentClockTime;
 
     bool paused;
     bool playerDead;
+    bool reviving;
+    bool wallDestroyed;
 
     void Start()
     {
@@ -34,24 +35,8 @@ public class GameManager : MonoBehaviour
 
         player = GameObject.FindWithTag("Player");
 
-        if (PlayerPrefs.HasKey("Score"))
-        {
-            currentScore = PlayerPrefs.GetInt("Score");
-        }
-        if (PlayerPrefs.HasKey("SavingGrace"))
-        {
-            savingGraceCount = PlayerPrefs.GetInt("SavingGrace");
-        }
-        if (PlayerPrefs.HasKey("ClockTime"))
-        {
-            currentClockTime = PlayerPrefs.GetInt("ClockTime");
-        }
-
         uiManager.UpdateScoreText(currentScore);
         uiManager.UpdateSavingGraceCountText(savingGraceCount);
-        clockManager.SetClockTime(currentClockTime);
-
-        InvokeRepeating("DestroyRandomWalls", hazardInitialDelay + gameHoursToDestroyWalls * clockManager.incrementClockRate, gameHoursToDestroyWalls * clockManager.incrementClockRate);
     }
 
     void Update()
@@ -71,21 +56,47 @@ public class GameManager : MonoBehaviour
                 floor.material = floorMats[0];
                 foreach (MeshRenderer w in walls)
                 {
-                    if(w)
+                    if (w)
                         w.material = wallMats[0];
                 }
+                wallDestroyed = false;
                 break;
             case 3:
-            case 4:
-            case 5:
                 floor.material = floorMats[1];
-                foreach(MeshRenderer w in walls)
+                foreach (MeshRenderer w in walls)
                 {
                     if (w)
                         w.material = wallMats[1];
                 }
+                if (!wallDestroyed)
+                {
+                    wallDestroyed = true;
+                    DestroyRandomWalls();
+                }
+                break;
+            case 4:
+            case 5:
+                floor.material = floorMats[1];
+                foreach (MeshRenderer w in walls)
+                {
+                    if (w)
+                        w.material = wallMats[1];
+                }
+                wallDestroyed = false;
                 break;
             case 6:
+                floor.material = floorMats[2];
+                foreach (MeshRenderer w in walls)
+                {
+                    if (w)
+                        w.material = wallMats[2];
+                }
+                if (!wallDestroyed)
+                {
+                    wallDestroyed = true;
+                    DestroyRandomWalls();
+                }
+                break;
             case 7:
             case 8:
                 floor.material = floorMats[2];
@@ -94,16 +105,42 @@ public class GameManager : MonoBehaviour
                     if (w)
                         w.material = wallMats[2];
                 }
+                wallDestroyed = false;
                 break;
             case 9:
+                floor.material = floorMats[3];
+                foreach (MeshRenderer w in walls)
+                {
+                    if (w)
+                        w.material = wallMats[3];
+                }
+                if (!wallDestroyed)
+                {
+                    wallDestroyed = true;
+                    DestroyRandomWalls();
+                }
+                break;
             case 10:
             case 11:
+                floor.material = floorMats[3];
+                foreach (MeshRenderer w in walls)
+                {
+                    if (w)
+                        w.material = wallMats[3];
+                }
+                wallDestroyed = false;
+                break;
             case 12:
                 floor.material = floorMats[3];
                 foreach (MeshRenderer w in walls)
                 {
                     if (w)
                         w.material = wallMats[3];
+                }
+                if (!wallDestroyed)
+                {
+                    wallDestroyed = true;
+                    DestroyRandomWalls();
                 }
                 break;
         }
@@ -198,31 +235,52 @@ public class GameManager : MonoBehaviour
     {
         savingGraceCount++;
         uiManager.UpdateSavingGraceCountText(savingGraceCount);
-        PlayerPrefs.SetInt("SavingGrace", savingGraceCount);
     }
 
     void DeductSavingGrace()
     {
         savingGraceCount--;
         uiManager.UpdateSavingGraceCountText(savingGraceCount);
-        PlayerPrefs.SetInt("SavingGrace", savingGraceCount);
+    }
+
+    void SignalRevivingPlayer()
+    {
+        player.GetComponent<PlayerSound>().PlaySoundEffect(PlayerSound.EffectType.REVIVED);
+        uiManager.ShowRevivingIndicator();
+        Invoke("RevivePlayerAtPreviousHour", 0.5f);
     }
 
     void RevivePlayerAtPreviousHour()
     {
-        player.GetComponent<PlayerSound>().PlaySoundEffect(PlayerSound.EffectType.REVIVED);
-        PlayerPrefs.SetInt("ClockTime", clockManager.currentClockTime - 1);
-        uiManager.ShowRevivingIndicator();
-        levelManager.LoadScene("Game");
+        uiManager.HideRevivingIndicator();
+
+        GameObject[] enemies = GameObject.FindGameObjectsWithTag("Enemy");
+        foreach (GameObject e in enemies)
+        {
+            Destroy(e);
+        }
+
+        clockManager.SetClockTime(clockManager.currentClockTime - 1);
+        clockManager.ResetCountdown();
+
+        playerDead = false;
+        player.GetComponent<Health>().ResetHealth();
+        player.transform.position = Vector3.zero;
+        player.GetComponent<Animator>().SetTrigger("revive");
+        player.GetComponent<PlayerController>().enabled = true;
+        player.GetComponent<Collider>().enabled = true;
+        reviving = false;
     }
 
     public void CheckToRevive()
     {
+        if (reviving) return;
         playerDead = true;
         if (savingGraceCount != 0)
         {
+            reviving = true;
             DeductSavingGrace();
-            RevivePlayerAtPreviousHour();
+            SignalRevivingPlayer();
         }
         else
         {

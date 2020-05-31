@@ -24,13 +24,6 @@ public class LevelManager : MonoBehaviour
         {
             Cursor.visible = true;
         }
-
-        if (SceneManager.GetActiveScene().name == "Menu")
-        {
-            PlayerPrefs.SetInt("Score", 0);
-            PlayerPrefs.SetInt("SavingGrace", 0);
-            PlayerPrefs.SetInt("ClockTime", 0);
-        }
     }
 
     //load scene based on scene name

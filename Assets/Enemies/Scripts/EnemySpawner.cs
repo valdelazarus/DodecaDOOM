@@ -14,6 +14,7 @@ public class EnemySpawner : MonoBehaviour
 
     ClockManager clockManager;
     UIManager uiManager;
+
     bool bossSpawned;
 
     void Start()
@@ -22,8 +23,12 @@ public class EnemySpawner : MonoBehaviour
         uiManager = FindObjectOfType<UIManager>();
 
         InvokeRepeating("SpawnGhosts", initialDelay, repeatRate);
-        InvokeRepeating("CheckToSpawnBoss", 0f, clockManager.incrementClockRate);
     }
+    void Update()
+    {
+        SpawnBoss(clockManager.currentClockTime);
+    }
+
     public void SpawnGhosts()
     {
         int rand = Random.Range(0, spawnPositions.Length);
@@ -31,10 +36,7 @@ public class EnemySpawner : MonoBehaviour
 
         Instantiate(enemyPrefabs[enemyRand], spawnPositions[rand].position, Quaternion.identity);
     }
-    void CheckToSpawnBoss()
-    {
-        SpawnBoss(clockManager.currentClockTime);
-    }
+    
     void SpawnBoss(int currentClockTime)
     {
         int rand;
