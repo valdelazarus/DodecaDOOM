@@ -1,8 +1,6 @@
 # DodecaDOOM
  This is a game made for GameDev.tv Community Jam from May 1st to June 1st, 2020.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
-
 ## Overview:
 
 This game features the challenge of time in a clock tower that runs for 12 hours of the clock. One hour in game equals 30 seconds in real time. 
